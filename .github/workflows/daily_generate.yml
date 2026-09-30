@@ -2,15 +2,17 @@ name: Generate Daily Scrabble Wallpaper
 
 on:
   schedule:
-    # Runs every day at 05:00 AM UTC
-    - cron: '0 5 * * *'
-  workflow_dispatch: # Allows manual trigger testing
+    - cron: '0 5 * * *' # Runs daily at 5:00 AM UTC
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grants the action permission to push files back
+
     steps:
-      - name: Check out repo
+      - name: Check out repository
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -22,12 +24,12 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Run wallpaper generator
+      - name: Generate Wallpaper
         env:
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
         run: python generate_wallpaper.py
 
-      - name: Commit and push generated wallpaper
+      - name: Commit and push updated image
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
