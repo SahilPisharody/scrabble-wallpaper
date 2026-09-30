@@ -45,8 +45,12 @@ def generate_scrabble_wallpaper():
         words = json.load(f)
 
     # Rotate word based on Day of Year
-    day_of_year = datetime.now().timetuple().tm_yday
-    word_data = words[day_of_year % len(words)]
+    # day_of_year = datetime.now().timetuple().tm_yday
+    # word_data = words[day_of_year % len(words)]
+    # Rotate word based on Current Hour
+    now = datetime.now()
+    hourly_index = int(now.timestamp() // 3600)
+    word_data = words[hourly_index % len(words)]
 
     # 1. Fetch live image from Unsplash (Fallback to dark background if request fails)
     try:
