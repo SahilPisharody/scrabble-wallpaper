@@ -52,13 +52,13 @@ def generate_wallpaper():
         top = (new_height - target_height) // 2
         img = img.crop((0, top, target_width, top + target_height))
 
-    # Dark misty vignette overlay behind text (shifted lower down to clear media notifications)
+    # Dark misty vignette overlay behind text (shifted down to 61%-90% height)
     overlay = Image.new('RGBA', (target_width, target_height), (0, 0, 0, 0))
     overlay_draw = ImageDraw.Draw(overlay)
     
     overlay_draw.rectangle(
-        [(0, int(target_height * 0.55)), (target_width, int(target_height * 0.88))],
-        fill=(10, 20, 25, 150)
+        [(0, int(target_height * 0.61)), (target_width, int(target_height * 0.90))],
+        fill=(10, 20, 25, 160)
     )
     overlay = overlay.filter(ImageFilter.GaussianBlur(40))
     img = Image.alpha_composite(img.convert('RGBA'), overlay).convert('RGB')
@@ -66,22 +66,23 @@ def generate_wallpaper():
     # Prepare Canvas & Fonts
     draw = ImageDraw.Draw(img)
 
+    # Scaled-down font sizes to fit below notifications without clipping at the bottom
     try:
-        font_word = ImageFont.truetype("DejaVuSans.ttf", 85)
-        font_points = ImageFont.truetype("DejaVuSans.ttf", 34)
-        font_def = ImageFont.truetype("DejaVuSans.ttf", 30)
-        font_tip = ImageFont.truetype("DejaVuSans-Oblique.ttf", 26)
+        font_word = ImageFont.truetype("DejaVuSans.ttf", 70)
+        font_points = ImageFont.truetype("DejaVuSans.ttf", 28)
+        font_def = ImageFont.truetype("DejaVuSans.ttf", 26)
+        font_tip = ImageFont.truetype("DejaVuSans-Oblique.ttf", 24)
     except IOError:
         try:
-            font_word = ImageFont.truetype("georgia.ttf", 85)
-            font_points = ImageFont.truetype("georgia.ttf", 34)
-            font_def = ImageFont.truetype("arial.ttf", 30)
+            font_word = ImageFont.truetype("georgia.ttf", 70)
+            font_points = ImageFont.truetype("georgia.ttf", 28)
+            font_def = ImageFont.truetype("arial.ttf", 26)
             font_tip = font_def
         except IOError:
             font_word = font_points = font_def = font_tip = ImageFont.load_default()
 
-    # Draw Text Elements (Positioned starting at 58% down the screen)
-    start_y = int(target_height * 0.58)
+    # Draw Text Elements (Starting at 63% screen height to clear Spotify player)
+    start_y = int(target_height * 0.63)
     
     word_text = word_info['word'].upper()
     points_text = f"({word_info.get('points', 0)} pts)"
@@ -89,7 +90,7 @@ def generate_wallpaper():
 
     # Draw Word & Points
     draw.text((80, start_y), word_text, font=font_word, fill=(255, 255, 255))
-    draw.text((80, start_y + 100), points_text, font=font_points, fill=(200, 220, 210))
+    draw.text((80, start_y + 80), points_text, font=font_points, fill=(200, 220, 210))
 
     # Wrap & Draw Definition
     max_width = target_width - 160
@@ -109,10 +110,10 @@ def generate_wallpaper():
     if current_line:
         lines.append(current_line)
 
-    def_y = start_y + 160
+    def_y = start_y + 125
     for line in lines:
         draw.text((80, def_y), line, font=font_def, fill=(220, 220, 220))
-        def_y += 42
+        def_y += 34
 
     # Save final output image
     img.save('daily_wallpaper.jpg', 'JPEG', quality=95)
