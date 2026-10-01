@@ -2,8 +2,8 @@ name: Generate Daily Scrabble Wallpaper
 
 on:
   schedule:
-    # Runs at :50 past the hour between 5:50 AM EST (10:50 UTC) and 10:50 PM EST (3:50 UTC)
-    - cron: '50 10-22,23,0-3 * * *'
+    # Runs at :50 past every hour (24/7, day and night)
+    - cron: '50 * * * *'
   workflow_dispatch: # Allows manual triggers from GitHub Actions UI
 
 jobs:
