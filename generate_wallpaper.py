@@ -10,7 +10,7 @@ def get_scrabble_word():
     with open('words.json', 'r') as f:
         words = json.load(f)
     
-    # Calculate word index based on target upcoming hour (+10 minutes buffer)
+    # Calculate word index based on target upcoming hour (+10 minutes buffer for early generation)
     target_time = datetime.now() + timedelta(minutes=10)
     hourly_index = int(target_time.timestamp() // 3600)
     return words[hourly_index % len(words)]
