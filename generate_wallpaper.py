@@ -2,7 +2,7 @@ import os
 import random
 import requests
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
-from datetime import datetime
+from datetime import datetime, timedelta
 import json
 
 def get_scrabble_word():
@@ -10,9 +10,9 @@ def get_scrabble_word():
     with open('words.json', 'r') as f:
         words = json.load(f)
     
-    # Select word dynamically based on current epoch hour
-    now = datetime.now()
-    hourly_index = int(now.timestamp() // 3600)
+    # Calculate word index based on target upcoming hour (+10 minutes buffer)
+    target_time = datetime.now() + timedelta(minutes=10)
+    hourly_index = int(target_time.timestamp() // 3600)
     return words[hourly_index % len(words)]
 
 def fetch_unsplash_image():
@@ -52,12 +52,12 @@ def generate_wallpaper():
         top = (new_height - target_height) // 2
         img = img.crop((0, top, target_width, top + target_height))
 
-    # Dark misty vignette overlay behind text (shifted down to 61%-90% height)
+    # Dark misty vignette overlay behind text
     overlay = Image.new('RGBA', (target_width, target_height), (0, 0, 0, 0))
     overlay_draw = ImageDraw.Draw(overlay)
     
     overlay_draw.rectangle(
-        [(0, int(target_height * 0.61)), (target_width, int(target_height * 0.90))],
+        [(0, int(target_height * 0.60)), (target_width, int(target_height * 0.90))],
         fill=(10, 20, 25, 160)
     )
     overlay = overlay.filter(ImageFilter.GaussianBlur(40))
@@ -66,23 +66,20 @@ def generate_wallpaper():
     # Prepare Canvas & Fonts
     draw = ImageDraw.Draw(img)
 
-    # Scaled-down font sizes to fit below notifications without clipping at the bottom
     try:
-        font_word = ImageFont.truetype("DejaVuSans.ttf", 70)
-        font_points = ImageFont.truetype("DejaVuSans.ttf", 28)
-        font_def = ImageFont.truetype("DejaVuSans.ttf", 26)
-        font_tip = ImageFont.truetype("DejaVuSans-Oblique.ttf", 24)
+        font_word = ImageFont.truetype("DejaVuSans.ttf", 62)
+        font_points = ImageFont.truetype("DejaVuSans.ttf", 26)
+        font_def = ImageFont.truetype("DejaVuSans.ttf", 24)
     except IOError:
         try:
-            font_word = ImageFont.truetype("georgia.ttf", 70)
-            font_points = ImageFont.truetype("georgia.ttf", 28)
-            font_def = ImageFont.truetype("arial.ttf", 26)
-            font_tip = font_def
+            font_word = ImageFont.truetype("georgia.ttf", 62)
+            font_points = ImageFont.truetype("georgia.ttf", 26)
+            font_def = ImageFont.truetype("arial.ttf", 24)
         except IOError:
-            font_word = font_points = font_def = font_tip = ImageFont.load_default()
+            font_word = font_points = font_def = ImageFont.load_default()
 
-    # Draw Text Elements (Starting at 63% screen height to clear Spotify player)
-    start_y = int(target_height * 0.63)
+    # Draw Text Elements (Positioned right below Spotify player)
+    start_y = int(target_height * 0.62)
     
     word_text = word_info['word'].upper()
     points_text = f"({word_info.get('points', 0)} pts)"
@@ -90,10 +87,10 @@ def generate_wallpaper():
 
     # Draw Word & Points
     draw.text((80, start_y), word_text, font=font_word, fill=(255, 255, 255))
-    draw.text((80, start_y + 80), points_text, font=font_points, fill=(200, 220, 210))
+    draw.text((80, start_y + 70), points_text, font=font_points, fill=(200, 220, 210))
 
-    # Wrap & Draw Definition
-    max_width = target_width - 160
+    # Wrap Definition (Restricted to 420px max width so it stays on left side of fingerprint icon)
+    max_width = 420
     lines = []
     words = def_text.split()
     current_line = ""
@@ -110,10 +107,10 @@ def generate_wallpaper():
     if current_line:
         lines.append(current_line)
 
-    def_y = start_y + 125
+    def_y = start_y + 110
     for line in lines:
         draw.text((80, def_y), line, font=font_def, fill=(220, 220, 220))
-        def_y += 34
+        def_y += 32
 
     # Save final output image
     img.save('daily_wallpaper.jpg', 'JPEG', quality=95)
