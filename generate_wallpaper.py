@@ -1,65 +1,38 @@
-import json
 import os
 import random
 import requests
-from io import BytesIO
-from datetime import datetime
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
+from datetime import datetime
+import json
 
-# --- CONFIGURATION ---
-# Retrieves key securely from environment variables set in GitHub Actions / Secrets
-UNSPLASH_ACCESS_KEY = os.environ.get("UNSPLASH_ACCESS_KEY")
-SEARCH_KEYWORDS = "misty forest, foggy mountains, moody nature, pine trees"
-
-def fetch_online_background(access_key, query):
-    """Fetches a random portrait nature image from Unsplash API."""
-    if not access_key:
-        raise ValueError("UNSPLASH_ACCESS_KEY environment variable is missing or empty.")
-
-    url = "https://api.unsplash.com/photos/random"
-    headers = {"Authorization": f"Client-ID {access_key}"}
-    params = {
-        "query": query,
-        "orientation": "portrait",
-        "content_filter": "high"
-    }
-
-    response = requests.get(url, headers=headers, params=params, timeout=15)
-    response.raise_for_status()
-    data = response.json()
-    
-    # Download high-resolution image into memory
-    image_url = data["urls"]["regular"]
-    img_response = requests.get(image_url, timeout=15)
-    img_response.raise_for_status()
-    
-    return Image.open(BytesIO(img_response.content))
-
-def generate_scrabble_wallpaper():
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-    words_file = os.path.join(base_dir, 'words.json')
-    output_path = os.path.join(base_dir, 'daily_wallpaper.jpg')
-
-    # Load Word List
-    with open(words_file, 'r') as f:
+def get_scrabble_word():
+    # Load custom words list
+    with open('words.json', 'r') as f:
         words = json.load(f)
-
-    # Rotate word based on Day of Year
-    # day_of_year = datetime.now().timetuple().tm_yday
-    # word_data = words[day_of_year % len(words)]
-    # Rotate word based on Current Hour
+    
+    # Select word dynamically based on current epoch hour
     now = datetime.now()
     hourly_index = int(now.timestamp() // 3600)
-    word_data = words[hourly_index % len(words)]
+    return words[hourly_index % len(words)]
 
-    # 1. Fetch live image from Unsplash (Fallback to dark background if request fails)
-    try:
-        print("Fetching background image from Unsplash...")
-        img = fetch_online_background(UNSPLASH_ACCESS_KEY, SEARCH_KEYWORDS)
-    except Exception as e:
-        print(f"Failed to fetch Unsplash image ({e}). Using dark fallback background.")
-        img = Image.new('RGB', (1080, 1920), color=(20, 32, 38))
+def fetch_unsplash_image():
+    access_key = os.environ.get("UNSPLASH_ACCESS_KEY")
+    url = f"https://api.unsplash.com/photos/random?query=foggy,misty,nature,moody&orientation=portrait&client_id={access_key}"
+    response = requests.get(url)
+    response.raise_for_status()
+    data = response.json()
+    image_url = data['urls']['regular']
+    img_data = requests.get(image_url).content
+    with open('temp_bg.jpg', 'wb') as handler:
+        handler.write(img_data)
+    return 'temp_bg.jpg'
 
+def generate_wallpaper():
+    word_info = get_scrabble_word()
+    bg_path = fetch_unsplash_image()
+    
+    img = Image.open(bg_path)
+    
     # Target resolution (Standard Smartphone 9:16 aspect ratio)
     target_width, target_height = 1080, 1920
     img = img.convert('RGB')
@@ -79,12 +52,12 @@ def generate_scrabble_wallpaper():
         top = (new_height - target_height) // 2
         img = img.crop((0, top, target_width, top + target_height))
 
-    # Dark misty vignette overlay behind text
+    # Dark misty vignette overlay behind text (shifted lower down to clear media notifications)
     overlay = Image.new('RGBA', (target_width, target_height), (0, 0, 0, 0))
     overlay_draw = ImageDraw.Draw(overlay)
     
     overlay_draw.rectangle(
-        [(0, int(target_height * 0.35)), (target_width, int(target_height * 0.75))],
+        [(0, int(target_height * 0.55)), (target_width, int(target_height * 0.88))],
         fill=(10, 20, 25, 150)
     )
     overlay = overlay.filter(ImageFilter.GaussianBlur(40))
@@ -93,7 +66,6 @@ def generate_scrabble_wallpaper():
     # Prepare Canvas & Fonts
     draw = ImageDraw.Draw(img)
 
-    # Cross-platform font fallback handling
     try:
         font_word = ImageFont.truetype("DejaVuSans.ttf", 85)
         font_points = ImageFont.truetype("DejaVuSans.ttf", 34)
@@ -104,54 +76,50 @@ def generate_scrabble_wallpaper():
             font_word = ImageFont.truetype("georgia.ttf", 85)
             font_points = ImageFont.truetype("georgia.ttf", 34)
             font_def = ImageFont.truetype("arial.ttf", 30)
-            font_tip = ImageFont.truetype("ariali.ttf", 26)
+            font_tip = font_def
         except IOError:
-            # Universal fallback if TrueType fonts are missing on the Linux environment
             font_word = font_points = font_def = font_tip = ImageFont.load_default()
 
-    # Draw Typography
-    center_y = int(target_height * 0.48)
-    word_text = word_data["word"]
-    points_text = f" [{word_data['points']} pts]"
+    # Draw Text Elements (Positioned starting at 58% down the screen)
+    start_y = int(target_height * 0.58)
     
-    draw.text((target_width // 2, center_y), word_text, fill=(255, 255, 255), font=font_word, anchor="mm")
-    draw.text((target_width // 2, center_y + 70), points_text, fill=(210, 225, 210), font=font_points, anchor="mm")
+    word_text = word_info['word'].upper()
+    points_text = f"({word_info.get('points', 0)} pts)"
+    def_text = word_info['definition']
 
-    # Divider line
-    draw.line(
-        [(target_width // 2 - 120, center_y + 110), (target_width // 2 + 120, center_y + 110)],
-        fill=(255, 255, 255, 180), width=2
-    )
+    # Draw Word & Points
+    draw.text((80, start_y), word_text, font=font_word, fill=(255, 255, 255))
+    draw.text((80, start_y + 100), points_text, font=font_points, fill=(200, 220, 210))
 
-    # Text wrapping utility function
-    def draw_wrapped_text(text, font, y_start, max_width=800, fill=(240, 240, 240)):
-        words_list = text.split()
-        lines = []
-        current_line = []
-        
-        for w in words_list:
-            current_line.append(w)
-            test_line = ' '.join(current_line)
-            bbox = draw.textbbox((0, 0), test_line, font=font)
-            if bbox[2] > max_width:
-                current_line.pop()
-                lines.append(' '.join(current_line))
-                current_line = [w]
-        lines.append(' '.join(current_line))
+    # Wrap & Draw Definition
+    max_width = target_width - 160
+    lines = []
+    words = def_text.split()
+    current_line = ""
 
-        current_y = y_start
-        for line in lines:
-            draw.text((target_width // 2, current_y), line, fill=fill, font=font, anchor="mm")
-            current_y += 42
-        return current_y
+    for w in words:
+        test_line = f"{current_line} {w}".strip()
+        bbox = font_def.getbbox(test_line)
+        line_w = bbox[2] - bbox[0]
+        if line_w <= max_width:
+            current_line = test_line
+        else:
+            lines.append(current_line)
+            current_line = w
+    if current_line:
+        lines.append(current_line)
 
-    # Draw Definition & Scrabble Tip
-    next_y = draw_wrapped_text(f"“{word_data['definition']}”", font_def, center_y + 160)
-    draw_wrapped_text(f"Scrabble Tip: {word_data['scrabble_tip']}", font_tip, next_y + 10, fill=(180, 205, 190))
+    def_y = start_y + 160
+    for line in lines:
+        draw.text((80, def_y), line, font=font_def, fill=(220, 220, 220))
+        def_y += 42
 
-    # Save output image
-    img.save(output_path, quality=95)
-    print(f"Successfully generated wallpaper to: {output_path}")
+    # Save final output image
+    img.save('daily_wallpaper.jpg', 'JPEG', quality=95)
+    
+    # Cleanup temporary download file
+    if os.path.exists('temp_bg.jpg'):
+        os.remove('temp_bg.jpg')
 
 if __name__ == "__main__":
-    generate_scrabble_wallpaper()
+    generate_wallpaper()
