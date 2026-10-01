@@ -1,62 +1,3602 @@
 [
   {
-    "word": "SYZYGY",
-    "points": 25,
-    "definition": "An alignment of three celestial bodies in a straight line.",
-    "scrabble_tip": "High points; contains three Ys."
+    "word": "TRYSTER",
+    "points": 10,
+    "definition": "One who makes an appointment, or tryst; one who meets withanother.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
   },
   {
-    "word": "QAID",
-    "points": 14,
-    "definition": "A Muslim judge or leader.",
-    "scrabble_tip": "Essential Q-without-U word."
+    "word": "CARROT",
+    "points": 8,
+    "definition": "An umbelliferous biennial plant (Daucus Carota), of manyvarieties.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
   },
   {
-    "word": "CRWTH",
-    "points": 13,
-    "definition": "An ancient Celtic stringed instrument (plucked or bowed).",
-    "scrabble_tip": "A rare 5-letter word with no vowels."
+    "word": "HAZEL",
+    "points": 17,
+    "definition": "A shrub or small tree of the genus Corylus, as the C. avellana,bearing a nut containing a kernel of a mild, farinaceous taste; thefilbert. The American species are C. Americana, which produces thecommon hazelnut, and C. rostrata. See Filbert. Gray.",
+    "scrabble_tip": "5-letter word scored for 17 pts."
   },
   {
-    "word": "XYST",
-    "points": 14,
-    "definition": "A covered portico or garden walkway used for athletic training.",
-    "scrabble_tip": "Great X-word for tight spaces."
+    "word": "AIR",
+    "points": 3,
+    "definition": "An artificial or affected manner; show of pride or vanity;haughtiness; as, it is said of a person, he puts on airs. Thackeray.",
+    "scrabble_tip": "3-letter word scored for 3 pts."
   },
   {
-    "word": "ZANZA",
-    "points": 23,
-    "definition": "An African musical instrument with tuned metal strips (thumb piano).",
-    "scrabble_tip": "Uses two Zs for massive scoring."
-  },
-  {
-    "word": "CWIFF",
-    "points": 16,
-    "definition": "A whiffling sound or a slight puff of air.",
-    "scrabble_tip": "Solid 5-letter play utilizing C and W."
-  },
-  {
-    "word": "QI",
-    "points": 11,
-    "definition": "The vital life force in traditional Chinese philosophy.",
-    "scrabble_tip": "The most fundamental 2-letter Q word."
-  },
-  {
-    "word": "JINX",
-    "points": 18,
-    "definition": "A person or thing that brings bad luck.",
-    "scrabble_tip": "Combines high-value J and X tiles."
-  },
-  {
-    "word": "MBIRA",
-    "points": 9,
-    "definition": "Another term for a thumb piano.",
-    "scrabble_tip": "Rare initial MB vowel-less combination."
-  },
-  {
-    "word": "EUOUAE",
+    "word": "COAL",
     "points": 6,
-    "definition": "A mnemonic phrase used in medieval music to denote vowels of 'seculorum Amen'.",
-    "scrabble_tip": "Longest English word consisting entirely of vowels."
+    "definition": "A black, or brownish black, solid, combustible substance, dugfrom beds or veins in the earth to be used for fuel, and consisting,like charcoal, mainly of carbon, but more compact, and oftenaffording, when heated, a large amount of volatile matter.",
+    "scrabble_tip": "4-letter word scored for 6 pts."
+  },
+  {
+    "word": "LILIAL",
+    "points": 6,
+    "definition": "Having a general resemblance to lilies or to liliaceous plants.",
+    "scrabble_tip": "6-letter word scored for 6 pts."
+  },
+  {
+    "word": "POLARITY",
+    "points": 13,
+    "definition": "That quality or condition of a body in virtue of which itexhibits opposite, or contrasted, properties or powers, in opposite,or contrasted, parts or directions; or a condition giving rise to acontrast of properties corresponding to a contrast of positions, as,for example, attraction and repulsion in the opposite parts of amagnet, the dissimilar phenomena corresponding to the different sidesof a polarized ray of light, etc.",
+    "scrabble_tip": "8-letter word scored for 13 pts."
+  },
+  {
+    "word": "PLAISE",
+    "points": 8,
+    "definition": "See Plaice. [Obs.]",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "FLOATY",
+    "points": 12,
+    "definition": "Swimming on the surface; buoyant; light. Sir W. Raleigh.",
+    "scrabble_tip": "6-letter word scored for 12 pts."
+  },
+  {
+    "word": "XYLIDIC",
+    "points": 20,
+    "definition": "Pertaining to, or designating, either one of two distinct acidswhich are derived from xylic acid and related compounds, and aremetameric with uvitic acid.",
+    "scrabble_tip": "7-letter word scored for 20 pts."
+  },
+  {
+    "word": "GROINED",
+    "points": 9,
+    "definition": "Built with groins; as, a groined ceiling; a groined vault.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "GYRAL",
+    "points": 9,
+    "definition": "Pertaining to a gyrus, or convolution.",
+    "scrabble_tip": "5-letter word scored for 9 pts."
+  },
+  {
+    "word": "TIMMER",
+    "points": 10,
+    "definition": "Same as 1st Timber. [Scot.]",
+    "scrabble_tip": "6-letter word scored for 10 pts."
+  },
+  {
+    "word": "GAMBISON",
+    "points": 13,
+    "definition": "A defensive garment formerly in use for the body, made of clothstuffed and quilted.",
+    "scrabble_tip": "8-letter word scored for 13 pts."
+  },
+  {
+    "word": "BAILIFF",
+    "points": 15,
+    "definition": "A sheriff's deputy, appointed to make arrests, collect fines,summon juries, etc.",
+    "scrabble_tip": "7-letter word scored for 15 pts."
+  },
+  {
+    "word": "FARADIC",
+    "points": 13,
+    "definition": "Of or pertaining to Michael Faraday, the distinguishedelectrician; -- applied especially to induced currents ofelectricity, as produced by certain forms of inductive apparatus, onaccount of Faraday's investigations of their laws.",
+    "scrabble_tip": "7-letter word scored for 13 pts."
+  },
+  {
+    "word": "ALVEUS",
+    "points": 9,
+    "definition": "The channel of a river. Weate.",
+    "scrabble_tip": "6-letter word scored for 9 pts."
+  },
+  {
+    "word": "CORALLIN",
+    "points": 10,
+    "definition": "A yellow coal-tar dyestuff which probably consists chiefly ofrosolic acid. See Aurin, and Rosolic acid under Rosolic. Redcorallin, a red dyestuff which is obtained by treating aurin orrosolic acid with ammonia; -- called also p\u00e6onin.-- Yellow corallin. See Aurin.",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "SECURER",
+    "points": 9,
+    "definition": "One who, or that which, secures.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "JAPANNING",
+    "points": 19,
+    "definition": "The art or act of varnishing in the Japanese manner.",
+    "scrabble_tip": "9-letter word scored for 19 pts."
+  },
+  {
+    "word": "WED",
+    "points": 7,
+    "definition": "A pledge; a pawn. [Obs.] Gower. Piers Plowman.Let him be ware, his neck lieth to wed [i. e., for a security].Chaucer.",
+    "scrabble_tip": "3-letter word scored for 7 pts."
+  },
+  {
+    "word": "PTILOSIS",
+    "points": 10,
+    "definition": "Same as Pterylosis.",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "RIDDLE",
+    "points": 8,
+    "definition": "Something proposed to be solved by guessing or conjecture; apuzzling question; an ambiguous proposition; an enigma; hence,anything ambiguous or puzzling.To wring from me, and tell to them, my secret, That solved the riddlewhich I had proposed. Milton.'T was a strange riddle of a lady. Hudibras.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "ALLUMETTE",
+    "points": 11,
+    "definition": "A match for lighting candles, lamps, etc.",
+    "scrabble_tip": "9-letter word scored for 11 pts."
+  },
+  {
+    "word": "TOUR",
+    "points": 4,
+    "definition": "A tower. [Obs.] Chaucer.",
+    "scrabble_tip": "4-letter word scored for 4 pts."
+  },
+  {
+    "word": "VANILLIC",
+    "points": 13,
+    "definition": "Pertaining to, or derived from, vanilla or vanillin; resemblingvanillin; specifically, designating an alcohol and an acidrespectively, vanillin being the intermediate aldehyde.",
+    "scrabble_tip": "8-letter word scored for 13 pts."
+  },
+  {
+    "word": "MORULA",
+    "points": 8,
+    "definition": "The sphere or globular mass of cells (blastomeres), formed bythe clevage of the ovum or egg in the first stages of itsdevelopment; -- called also mulberry mass, segmentation sphere, andblastosphere. See Segmentation.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "VAGRANTLY",
+    "points": 16,
+    "definition": "In a vagrant manner.",
+    "scrabble_tip": "9-letter word scored for 16 pts."
+  },
+  {
+    "word": "CHIEFAGE",
+    "points": 17,
+    "definition": "A tribute by the head; a capitation tax. [Written also chevageand chivage.] [Obs.]",
+    "scrabble_tip": "8-letter word scored for 17 pts."
+  },
+  {
+    "word": "MORPHIA",
+    "points": 14,
+    "definition": "Morphine.",
+    "scrabble_tip": "7-letter word scored for 14 pts."
+  },
+  {
+    "word": "SHARKER",
+    "points": 14,
+    "definition": "One who lives by sharking.",
+    "scrabble_tip": "7-letter word scored for 14 pts."
+  },
+  {
+    "word": "ENACTURE",
+    "points": 10,
+    "definition": "Enactment; resolution. [Obs.] Shak.",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "GUFFER",
+    "points": 13,
+    "definition": "The eelpout; guffer eel.",
+    "scrabble_tip": "6-letter word scored for 13 pts."
+  },
+  {
+    "word": "GABLOCK",
+    "points": 16,
+    "definition": "A false spur or gaff, fitted on the heel of a gamecock. Wright.",
+    "scrabble_tip": "7-letter word scored for 16 pts."
+  },
+  {
+    "word": "ELDERN",
+    "points": 7,
+    "definition": "Made of elder. [Obs.]He would discharge us as boys do eldern guns. Marston.",
+    "scrabble_tip": "6-letter word scored for 7 pts."
+  },
+  {
+    "word": "PETECHIAL",
+    "points": 16,
+    "definition": "Characterized by, or pertaining to, petechi\u00e6; spotted.Petechial fever, a malignant fever, accompanied with livid spots onthe skin.",
+    "scrabble_tip": "9-letter word scored for 16 pts."
+  },
+  {
+    "word": "ANTHER",
+    "points": 9,
+    "definition": "That part of the stamen containing the pollen, or fertilizingdust, which, when mature, is emitted for the impregnation of theovary.-- An\"ther*al, a.",
+    "scrabble_tip": "6-letter word scored for 9 pts."
+  },
+  {
+    "word": "AMNIOTIC",
+    "points": 12,
+    "definition": "Of or pertaining to the amnion; characterized by an amnion; as,the amniotic fluid; the amniotic sac. Amniotic acid. (Chem.) [R.] SeeAllantoin.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "ASTACUS",
+    "points": 9,
+    "definition": "A genus of crustaceans, containing the crawfish of fresh-waterlobster of Europe, and allied species of western North America. SeeCrawfish.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "HIDDEN",
+    "points": 11,
+    "definition": "from Hide. Concealed; put out of view; secret; not known;mysterious. Hidden fifths or octaves (Mus.), consecutive fifths oroctaves, not sounded, but suggested or implied in the parallel motionof two parts towards a fifth or an octave.",
+    "scrabble_tip": "6-letter word scored for 11 pts."
+  },
+  {
+    "word": "SHALM",
+    "points": 10,
+    "definition": "See Shawm. [Obs.] Knolles.",
+    "scrabble_tip": "5-letter word scored for 10 pts."
+  },
+  {
+    "word": "PREACE",
+    "points": 10,
+    "definition": "Press. [Obs.] Spenser.",
+    "scrabble_tip": "6-letter word scored for 10 pts."
+  },
+  {
+    "word": "TRADITION",
+    "points": 10,
+    "definition": "To transmit by way of tradition; to hand down. [Obs.]The following story is . . . traditioned with very much creditamongst our English Catholics. Fuller.",
+    "scrabble_tip": "9-letter word scored for 10 pts."
+  },
+  {
+    "word": "GELSEMINE",
+    "points": 12,
+    "definition": "An alkaloid obtained from the yellow jasmine (Gelsemiumsempervirens), as a bitter white semicrystalline substance; -- calledalso gelsemia.",
+    "scrabble_tip": "9-letter word scored for 12 pts."
+  },
+  {
+    "word": "RESHIPPER",
+    "points": 16,
+    "definition": "One who reships.",
+    "scrabble_tip": "9-letter word scored for 16 pts."
+  },
+  {
+    "word": "BARDISM",
+    "points": 12,
+    "definition": "The system of bards; the learning and maxims of bards.",
+    "scrabble_tip": "7-letter word scored for 12 pts."
+  },
+  {
+    "word": "PHOSPHENE",
+    "points": 19,
+    "definition": "A luminous impression produced through excitation of the retinaby some cause other than the impingement upon it of rays of light, asby pressure upon the eyeball when the lids are closed. Cf. After-image.",
+    "scrabble_tip": "9-letter word scored for 19 pts."
+  },
+  {
+    "word": "OLEAMEN",
+    "points": 9,
+    "definition": "A soft ointment prepared from oil. Dunglison.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "STERNER",
+    "points": 7,
+    "definition": "A director. [Obs. & R.] Dr. R. Clerke.",
+    "scrabble_tip": "7-letter word scored for 7 pts."
+  },
+  {
+    "word": "LACONIZE",
+    "points": 19,
+    "definition": "To imitate the manner of the Laconians, especially in brief,pithy speech, or in frugality and austerity.",
+    "scrabble_tip": "8-letter word scored for 19 pts."
+  },
+  {
+    "word": "PRESBYOPY",
+    "points": 21,
+    "definition": "See Presbyopia.",
+    "scrabble_tip": "9-letter word scored for 21 pts."
+  },
+  {
+    "word": "INCITER",
+    "points": 9,
+    "definition": "One who, or that which, incites.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "IMMANITY",
+    "points": 15,
+    "definition": "The state or quality of being immane; barbarity. [R.] Shak.",
+    "scrabble_tip": "8-letter word scored for 15 pts."
+  },
+  {
+    "word": "CYMOID",
+    "points": 14,
+    "definition": "Having the form of a cyme.",
+    "scrabble_tip": "6-letter word scored for 14 pts."
+  },
+  {
+    "word": "OVERTROW",
+    "points": 14,
+    "definition": "To be too trustful or confident; to trust too much. [Obs.]Wyclif",
+    "scrabble_tip": "8-letter word scored for 14 pts."
+  },
+  {
+    "word": "MOTTY",
+    "points": 10,
+    "definition": "Full of, or consisting of, motes. [Written also mottie.][Scot.]The motty dust reek raised by the workmen. H. Miller.",
+    "scrabble_tip": "5-letter word scored for 10 pts."
+  },
+  {
+    "word": "RHETOR",
+    "points": 9,
+    "definition": "A rhetorician. [Obs.] Hammond.",
+    "scrabble_tip": "6-letter word scored for 9 pts."
+  },
+  {
+    "word": "NAPPY",
+    "points": 12,
+    "definition": "Having a nap or pile; downy; shaggy. Holland.",
+    "scrabble_tip": "5-letter word scored for 12 pts."
+  },
+  {
+    "word": "TOCORORO",
+    "points": 10,
+    "definition": "A cuban trogon (Priotelus temnurus) having a serrated bill anda tail concave at the end.",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "DISHALLOW",
+    "points": 16,
+    "definition": "To make unholy; to profane. Tennyson.Nor can the unholiness of the priest dishallow the altar. T. Adams.",
+    "scrabble_tip": "9-letter word scored for 16 pts."
+  },
+  {
+    "word": "CUNETTE",
+    "points": 9,
+    "definition": "A drain trench, in a ditch or moat; -- called also cuvette.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "STATISM",
+    "points": 9,
+    "definition": "The art of governing a state; statecraft; policy. [Obs.]The enemies of God . . . call our religion statism. South.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "MIMOSA",
+    "points": 10,
+    "definition": "A genus of leguminous plants, containing many species, andincluding the sensitive plants (Mimosa sensitiva, and M. pudica).",
+    "scrabble_tip": "6-letter word scored for 10 pts."
+  },
+  {
+    "word": "RATFISH",
+    "points": 13,
+    "definition": "Same as Rat-tail.",
+    "scrabble_tip": "7-letter word scored for 13 pts."
+  },
+  {
+    "word": "DYSODILE",
+    "points": 13,
+    "definition": "An impure earthy or coaly bitumen, which emits a highly fetidodor when burning.",
+    "scrabble_tip": "8-letter word scored for 13 pts."
+  },
+  {
+    "word": "MERULIDAN",
+    "points": 12,
+    "definition": "A bird of the Thrush family.",
+    "scrabble_tip": "9-letter word scored for 12 pts."
+  },
+  {
+    "word": "WONDERLY",
+    "points": 15,
+    "definition": "Wonderfully; wondrously. [Obs.] Chaucer.",
+    "scrabble_tip": "8-letter word scored for 15 pts."
+  },
+  {
+    "word": "FANEGA",
+    "points": 10,
+    "definition": "A dry measure in Spain and Spanish America, varying from 1 DeColange.",
+    "scrabble_tip": "6-letter word scored for 10 pts."
+  },
+  {
+    "word": "COVETER",
+    "points": 12,
+    "definition": "One who covets.",
+    "scrabble_tip": "7-letter word scored for 12 pts."
+  },
+  {
+    "word": "PAIRMENT",
+    "points": 12,
+    "definition": "Impairment. [Obs.] Wyclif.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "COLOUR",
+    "points": 8,
+    "definition": "See Color.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "ASTARTE",
+    "points": 7,
+    "definition": "A genus of bivalve mollusks, common on the coasts of Americaand Europe.",
+    "scrabble_tip": "7-letter word scored for 7 pts."
+  },
+  {
+    "word": "BEZZLE",
+    "points": 26,
+    "definition": "To plunder; to waste in riot. [Obs.]",
+    "scrabble_tip": "6-letter word scored for 26 pts."
+  },
+  {
+    "word": "DICTAMNUS",
+    "points": 14,
+    "definition": "A suffrutescent, D. Fraxinella (the only species), with strongperfume and showy flowers. The volatile oil of the leaves is highlyinflammable.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "WEARY",
+    "points": 11,
+    "definition": "To grow tired; to become exhausted or impatient; as, to wearyof an undertaking.",
+    "scrabble_tip": "5-letter word scored for 11 pts."
+  },
+  {
+    "word": "OVERSHOE",
+    "points": 14,
+    "definition": "A shoe that is worn over another for protection from wet or forextra warmth; esp., an India-rubber shoe; a galoche.",
+    "scrabble_tip": "8-letter word scored for 14 pts."
+  },
+  {
+    "word": "UNSHOUT",
+    "points": 10,
+    "definition": "To recall what is done by shouting. [Obs.] Shak.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "RECLOSE",
+    "points": 9,
+    "definition": "To close again. Pope.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "TURTLER",
+    "points": 7,
+    "definition": "One who catches turtles or tortoises. \"The Jamaica turtlers.\"Dampier.",
+    "scrabble_tip": "7-letter word scored for 7 pts."
+  },
+  {
+    "word": "SCHEME",
+    "points": 13,
+    "definition": "A representation of the aspects of the celestial bodies for anymoment o at a given event.A blue case, from which was drawn a scheme of nativity. Sir W. Scott.",
+    "scrabble_tip": "6-letter word scored for 13 pts."
+  },
+  {
+    "word": "QUAKINGLY",
+    "points": 26,
+    "definition": "In a quaking manner; fearfully. Sir P. Sidney.",
+    "scrabble_tip": "9-letter word scored for 26 pts."
+  },
+  {
+    "word": "LIBRATORY",
+    "points": 14,
+    "definition": "Balancing; moving like a balance, as it tends to an equipoiseor level.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "INKHORN",
+    "points": 14,
+    "definition": "A small bottle of horn or other material formerly used forholding ink; an inkstand; a portable case for writing materials.\"With a writer's inkhorn by his side.\" Ezek. ix. 2.From his pocket the notary drew his papers and inkhorn. Longfellow.",
+    "scrabble_tip": "7-letter word scored for 14 pts."
+  },
+  {
+    "word": "LEVANTER",
+    "points": 11,
+    "definition": "One who levants, or decamps. [Colloq. Eng.]",
+    "scrabble_tip": "8-letter word scored for 11 pts."
+  },
+  {
+    "word": "ETAMINE",
+    "points": 9,
+    "definition": "A light textile fabric, like a fine bunting.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "BURGAGE",
+    "points": 11,
+    "definition": "A tenure by which houses or lands are held of the king or otherlord of a borough or city; at a certain yearly rent, or by servicesrelating to trade or handicraft. Burrill.",
+    "scrabble_tip": "7-letter word scored for 11 pts."
+  },
+  {
+    "word": "RESPECTER",
+    "points": 13,
+    "definition": "One who respects. A respecter of persons, one who regards orjudges with partiality.Of a truth I perceive that God is no respecter of persons. Acts x.34.",
+    "scrabble_tip": "9-letter word scored for 13 pts."
+  },
+  {
+    "word": "QUADRIFID",
+    "points": 23,
+    "definition": "Divided, or deeply cleft, into four parts; as, a quadrifidperianth; a quadrifid leaf.",
+    "scrabble_tip": "9-letter word scored for 23 pts."
+  },
+  {
+    "word": "NETIFY",
+    "points": 12,
+    "definition": "To render neat; to clean; to put in order. [R.] Chapman.",
+    "scrabble_tip": "6-letter word scored for 12 pts."
+  },
+  {
+    "word": "FINEDRAW",
+    "points": 15,
+    "definition": "To sew up, so nicely that the seam is not perceived; to renter.Marryat.",
+    "scrabble_tip": "8-letter word scored for 15 pts."
+  },
+  {
+    "word": "KUMMEL",
+    "points": 14,
+    "definition": "A Russian and German liqueur, consisting of a sweetened spiritflavored with caraway seeds.",
+    "scrabble_tip": "6-letter word scored for 14 pts."
+  },
+  {
+    "word": "ARCHERESS",
+    "points": 14,
+    "definition": "A female archer. Markham.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "CARTEL",
+    "points": 8,
+    "definition": "An agreement between belligerents for the exchange ofprisoners. Wilhelm.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "WAIT",
+    "points": 7,
+    "definition": "Hautboys, or oboes, played by town musicians; not used in thesingular. [Obs.] Halliwell.",
+    "scrabble_tip": "4-letter word scored for 7 pts."
+  },
+  {
+    "word": "AZURED",
+    "points": 16,
+    "definition": "Of an azure color; sky-blue. \"The azured harebell.\" Shak.",
+    "scrabble_tip": "6-letter word scored for 16 pts."
+  },
+  {
+    "word": "SALTISH",
+    "points": 10,
+    "definition": "Somewhat salt.-- Salt\"ish*ly, adv.-- Salt\"ish*ness, n.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "FRUTEX",
+    "points": 16,
+    "definition": "A plant having a woody, durable stem, but less than a tree; ashrub.",
+    "scrabble_tip": "6-letter word scored for 16 pts."
+  },
+  {
+    "word": "PURSINESS",
+    "points": 11,
+    "definition": "State of being pursy.",
+    "scrabble_tip": "9-letter word scored for 11 pts."
+  },
+  {
+    "word": "CORVINE",
+    "points": 12,
+    "definition": "Of or pertaining to the crow; crowlike.",
+    "scrabble_tip": "7-letter word scored for 12 pts."
+  },
+  {
+    "word": "DIALYZE",
+    "points": 20,
+    "definition": "To separate, prepare, or obtain, by dialysis or osmose; to passthrough an animal membrane; to subject to dialysis. [Written alsodialyse.]",
+    "scrabble_tip": "7-letter word scored for 20 pts."
+  },
+  {
+    "word": "HIRUDINE",
+    "points": 12,
+    "definition": "Of or pertaining to the leeches.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "FORFEITER",
+    "points": 15,
+    "definition": "One who incurs a penalty of forfeiture.",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "SUBCAUDAL",
+    "points": 14,
+    "definition": "Situated under, or on the ventral side of, the tail; as, thesubcaudal, or chevron, bones.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "AMOROSITY",
+    "points": 14,
+    "definition": "The quality of being amorous; lovingness. [R.] Galt.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "SAWER",
+    "points": 8,
+    "definition": "One who saws; a sawyer.",
+    "scrabble_tip": "5-letter word scored for 8 pts."
+  },
+  {
+    "word": "IMPASTO",
+    "points": 11,
+    "definition": "The thickness of the layer or body of pigment applied by thepainter to his canvas with especial reference to the juxtaposition ofdifferent colors and tints in forming a harmonious whole. Fairholt.",
+    "scrabble_tip": "7-letter word scored for 11 pts."
+  },
+  {
+    "word": "WILDED",
+    "points": 11,
+    "definition": "Become wild. [R.]An old garden plant escaped and wilded. J. Earle.",
+    "scrabble_tip": "6-letter word scored for 11 pts."
+  },
+  {
+    "word": "KERVER",
+    "points": 13,
+    "definition": "A carver. [Obs.] Chaucer.",
+    "scrabble_tip": "6-letter word scored for 13 pts."
+  },
+  {
+    "word": "TANGRAM",
+    "points": 10,
+    "definition": "A Chinese toy made by cutting a square of thin wood, or othersuitable material, into seven pieces, as shown in the cut, thesepieces being capable of combination in various ways, so as to form agreat number of different figures. It is now often used in primaryschools as a means of instruction.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "FROWARD",
+    "points": 14,
+    "definition": "Not willing to yield or compIy with what is required or isreasonable; perverse; disobedient; peevish; as, a froward child.A froward man soweth strife. Prov. xvi. 28.A froward retention of custom is as turbulent a thing as innovation.Bacon.",
+    "scrabble_tip": "7-letter word scored for 14 pts."
+  },
+  {
+    "word": "COLITIS",
+    "points": 9,
+    "definition": "An inflammation of the large intestine, esp. of its mucousmembrane; colonitis.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "NAY",
+    "points": 6,
+    "definition": "To refuse. [Obs.] Holinshed.",
+    "scrabble_tip": "3-letter word scored for 6 pts."
+  },
+  {
+    "word": "MEGACHILE",
+    "points": 17,
+    "definition": "A leaf-cutting bee of the genus Megachilus. See Leaf cutter,under Leaf.",
+    "scrabble_tip": "9-letter word scored for 17 pts."
+  },
+  {
+    "word": "FRETWORK",
+    "points": 18,
+    "definition": "Work adorned with frets; ornamental openwork or work in relief,esp. when elaborate and minute in its parts. Heuce, any minute playof light andshade, dark and light, or the like.Banqueting on the turf in the fretwork of shade and sunshine.Macaulay.",
+    "scrabble_tip": "8-letter word scored for 18 pts."
+  },
+  {
+    "word": "BUSHLESS",
+    "points": 13,
+    "definition": "Free from bushes; bare.O'er the long backs of the bushless downs. Tennyson.",
+    "scrabble_tip": "8-letter word scored for 13 pts."
+  },
+  {
+    "word": "HOGSTY",
+    "points": 13,
+    "definition": "A pen, house, or inclosure, for hogs.",
+    "scrabble_tip": "6-letter word scored for 13 pts."
+  },
+  {
+    "word": "INFERIAE",
+    "points": 11,
+    "definition": "Sacrifices offered to the souls of deceased heroes or friends.",
+    "scrabble_tip": "8-letter word scored for 11 pts."
+  },
+  {
+    "word": "BUCKETY",
+    "points": 18,
+    "definition": "Paste used by weavers to dress their webs. Buchanan.",
+    "scrabble_tip": "7-letter word scored for 18 pts."
+  },
+  {
+    "word": "ACCLIMATE",
+    "points": 15,
+    "definition": "To habituate to a climate not native; to acclimatize. J. H.Newman.",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "TENDRIL",
+    "points": 8,
+    "definition": "A slender, leafless portion of a plant by which it becomesattached to a supporting body, after which the tendril usuallycontracts by coiling spirally.",
+    "scrabble_tip": "7-letter word scored for 8 pts."
+  },
+  {
+    "word": "NONJURANT",
+    "points": 16,
+    "definition": "Nonjuring.",
+    "scrabble_tip": "9-letter word scored for 16 pts."
+  },
+  {
+    "word": "SHOELESS",
+    "points": 11,
+    "definition": "Destitute of shoes. Addison.",
+    "scrabble_tip": "8-letter word scored for 11 pts."
+  },
+  {
+    "word": "MAC",
+    "points": 7,
+    "definition": "A prefix, in names of Scotch origin, signifying son.",
+    "scrabble_tip": "3-letter word scored for 7 pts."
+  },
+  {
+    "word": "ELAIODIC",
+    "points": 11,
+    "definition": "Derived from castor oil; ricinoleic; as, elaiodic acid. [R.]",
+    "scrabble_tip": "8-letter word scored for 11 pts."
+  },
+  {
+    "word": "RAMEOUS",
+    "points": 9,
+    "definition": "Ramal.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "DEVASTATE",
+    "points": 13,
+    "definition": "To lay waste; to ravage; to desolate.Whole countries . . . were devastated. Macaulay.",
+    "scrabble_tip": "9-letter word scored for 13 pts."
+  },
+  {
+    "word": "NEVEW",
+    "points": 11,
+    "definition": "Nephew. [Obs.] haucer.",
+    "scrabble_tip": "5-letter word scored for 11 pts."
+  },
+  {
+    "word": "ALARMIST",
+    "points": 10,
+    "definition": "One prone to sound or excite alarms, especially, needlessalarms. Macaulay.",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "GENUINE",
+    "points": 8,
+    "definition": "Belonging to, or proceeding from, the original stock; native;hence, not counterfeit, spurious, false, or adulterated; authentic;real; natural; true; pure; as, a genuine text; a genuine production;genuine materials. \"True, genuine night.\" Dryden.",
+    "scrabble_tip": "7-letter word scored for 8 pts."
+  },
+  {
+    "word": "SALVATION",
+    "points": 12,
+    "definition": "The redemption of man from the bondage of sin and liability toeternal death, and the conferring on him of everlasting happiness.To earn salvation for the sons of men. Milton.Godly sorrow worketh repentance to salvation. 2. Cor. vii. 10.",
+    "scrabble_tip": "9-letter word scored for 12 pts."
+  },
+  {
+    "word": "WOWF",
+    "points": 13,
+    "definition": "Disordered or unsettled in intellect; deranged. [Scot.] Sir W.Scott.",
+    "scrabble_tip": "4-letter word scored for 13 pts."
+  },
+  {
+    "word": "JAYET",
+    "points": 15,
+    "definition": "See Jet. [Obs.]",
+    "scrabble_tip": "5-letter word scored for 15 pts."
+  },
+  {
+    "word": "BARKY",
+    "points": 14,
+    "definition": "Covered with, or containing, bark. \"The barky fingers of theelm.\" Shak.",
+    "scrabble_tip": "5-letter word scored for 14 pts."
+  },
+  {
+    "word": "DIAPASE",
+    "points": 10,
+    "definition": "Same as Diapason. [Obs.]A tuneful diapase of pleasures. Spenser.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "RETINAL",
+    "points": 7,
+    "definition": "Of or pertaining to the retina. Retinal purple (Physiol.Chem.), the visual purple.",
+    "scrabble_tip": "7-letter word scored for 7 pts."
+  },
+  {
+    "word": "FORMELL",
+    "points": 12,
+    "definition": "The female of a hawk or falcon.",
+    "scrabble_tip": "7-letter word scored for 12 pts."
+  },
+  {
+    "word": "ROTTEN",
+    "points": 6,
+    "definition": "Having rotted; putrid; decayed; as, a rotten apple; rottenmeat. Hence:(a) Offensive to the smell; fetid; disgusting.You common cry or curs! whose breath I hate As reek of the rottenfens. Shak.",
+    "scrabble_tip": "6-letter word scored for 6 pts."
+  },
+  {
+    "word": "COMBINED",
+    "points": 15,
+    "definition": "United closely; confederated; chemically united.",
+    "scrabble_tip": "8-letter word scored for 15 pts."
+  },
+  {
+    "word": "PERSISM",
+    "points": 11,
+    "definition": "A Persian idiom.",
+    "scrabble_tip": "7-letter word scored for 11 pts."
+  },
+  {
+    "word": "LALLATION",
+    "points": 9,
+    "definition": "An imperfect enunciation of the letter r, in which it soundslike l.",
+    "scrabble_tip": "9-letter word scored for 9 pts."
+  },
+  {
+    "word": "ACANTHA",
+    "points": 12,
+    "definition": "A prickle.",
+    "scrabble_tip": "7-letter word scored for 12 pts."
+  },
+  {
+    "word": "MACRON",
+    "points": 10,
+    "definition": "A short, straight, horizontal mark [-], placed over vowels todenote that they are to be pronounced with a long sound; as, a, indame; e, in seam, etc.",
+    "scrabble_tip": "6-letter word scored for 10 pts."
+  },
+  {
+    "word": "MILLENARY",
+    "points": 14,
+    "definition": "Consisting of a thousand; millennial.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "PARKERIA",
+    "points": 14,
+    "definition": "A genus of large arenaceous fossil Foraminifera found in theCretaceous rocks. The species are globular, or nearly so, and are ofall sizes up to that of a tennis ball.",
+    "scrabble_tip": "8-letter word scored for 14 pts."
+  },
+  {
+    "word": "REINSTALL",
+    "points": 9,
+    "definition": "To install again. Milton.",
+    "scrabble_tip": "9-letter word scored for 9 pts."
+  },
+  {
+    "word": "STYRYL",
+    "points": 12,
+    "definition": "A hypothetical radical found in certain derivatives ofstyrolene and cinnamic acid; -- called also cinnyl, or cinnamyl.",
+    "scrabble_tip": "6-letter word scored for 12 pts."
+  },
+  {
+    "word": "VINTNER",
+    "points": 10,
+    "definition": "One who deals in wine; a wine seller, or wine merchant.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "CURCUMIN",
+    "points": 14,
+    "definition": "The coloring principle of turmeric, or curcuma root, extractedas an orange yellow crystalline substance, C14H14O4, with a greenfluorescence.",
+    "scrabble_tip": "8-letter word scored for 14 pts."
+  },
+  {
+    "word": "LASERWORT",
+    "points": 12,
+    "definition": "Any plant of the umbelliferous genus Laserpitium, of severalspecies (as L. glabrum, and L. siler), the root of which yields aresinous substance of a bitter taste. The genus is mostly European.",
+    "scrabble_tip": "9-letter word scored for 12 pts."
+  },
+  {
+    "word": "REDEEM",
+    "points": 9,
+    "definition": "Hence, to rescue and deliver from the bondage of sin and thepenalties of God's violated law.Christ hath redeemed us from the curse of the law, being made a cursefor us. Gal. iii. 13.",
+    "scrabble_tip": "6-letter word scored for 9 pts."
+  },
+  {
+    "word": "TRAMA",
+    "points": 7,
+    "definition": "The loosely woven substance which lines the chambers within thegleba in certain Gasteromycetes.",
+    "scrabble_tip": "5-letter word scored for 7 pts."
+  },
+  {
+    "word": "CHERIF",
+    "points": 14,
+    "definition": "See Cherif.",
+    "scrabble_tip": "6-letter word scored for 14 pts."
+  },
+  {
+    "word": "ANODYNE",
+    "points": 11,
+    "definition": "Serving to assuage pain; soothing.The anodyne draught of oblivion. Burke.",
+    "scrabble_tip": "7-letter word scored for 11 pts."
+  },
+  {
+    "word": "RASPIS",
+    "points": 8,
+    "definition": "The raspberry. [Obs.] Langham.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "CESSMENT",
+    "points": 12,
+    "definition": "An assessment or tax. [Obs.] Johnson.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "FEITSUI",
+    "points": 10,
+    "definition": "The Chinese name for a highly prized variety of pale greenjade. See Jade.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "COUVEUSE",
+    "points": 13,
+    "definition": "An incubator for sickly infants, esp. those prematurely born.",
+    "scrabble_tip": "8-letter word scored for 13 pts."
+  },
+  {
+    "word": "ICONICAL",
+    "points": 12,
+    "definition": "Pertaining to, or consisting of, images, pictures, orrepresentations of any kind.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "CHONDROID",
+    "points": 16,
+    "definition": "Resembling cartilage.",
+    "scrabble_tip": "9-letter word scored for 16 pts."
+  },
+  {
+    "word": "SOUNDLY",
+    "points": 11,
+    "definition": "In a sound manner.",
+    "scrabble_tip": "7-letter word scored for 11 pts."
+  },
+  {
+    "word": "CLARINET",
+    "points": 10,
+    "definition": "A wind instrument, blown by a single reed, of richer and fullertone than the oboe, which has a double reed. It is the leadinginstrument in a military band.",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "BATISTE",
+    "points": 9,
+    "definition": "Originally, cambric or lawn of fine linen; now applied also tocloth of similar texture made of cotton.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "MAGICALLY",
+    "points": 17,
+    "definition": "In a magical manner; by magic, or as if by magic.",
+    "scrabble_tip": "9-letter word scored for 17 pts."
+  },
+  {
+    "word": "HYDRATE",
+    "points": 14,
+    "definition": "To form into a hydrate; to combine with water.",
+    "scrabble_tip": "7-letter word scored for 14 pts."
+  },
+  {
+    "word": "MONOECIAN",
+    "points": 13,
+    "definition": "Of or pertaining to the Monoecia; monoecious.-- n.",
+    "scrabble_tip": "9-letter word scored for 13 pts."
+  },
+  {
+    "word": "AVULSION",
+    "points": 11,
+    "definition": "The sudden removal of lands or soil from the estate of one manto that of another by an inundation or a current, or by a suddenchange in the course of a river by which a part of the estate of oneman is cut off and joined to the estate of another. The property inthe part thus separated, or cut off, continues in the original owner.Wharton. Burrill.",
+    "scrabble_tip": "8-letter word scored for 11 pts."
+  },
+  {
+    "word": "MARMOSET",
+    "points": 12,
+    "definition": "Any one of numerous species of small South American monkeys ofthe genera Hapale and Midas, family Hapalid\u00e6. They have long softfur, and a hairy, nonprehensile tail. They are often kept as pets.Called also squirrel monkey.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "BUMP",
+    "points": 10,
+    "definition": "To strike, as with or against anything large or solid; tothump; as, to bump the head against a wall.",
+    "scrabble_tip": "4-letter word scored for 10 pts."
+  },
+  {
+    "word": "FIDELITY",
+    "points": 15,
+    "definition": "Faithfulness; adherence to right; careful and exact observanceof duty, or discharge of obligations. Especially:(a) Adherence to a person or party to which one is bound; loyalty.Whose courageous fidelity was proof to all danger. Macaulay.The best security for the fidelity of men is to make interestcoincide with duty. A. Hamilton.",
+    "scrabble_tip": "8-letter word scored for 15 pts."
+  },
+  {
+    "word": "ARGIVE",
+    "points": 10,
+    "definition": "Of or performance to Argos, the capital of Argolis in Greece.-- n.",
+    "scrabble_tip": "6-letter word scored for 10 pts."
+  },
+  {
+    "word": "APOSTEME",
+    "points": 12,
+    "definition": "An abscess; a swelling filled with purulent matter. [Writtencorruptly imposthume.]",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "ZAMINDAR",
+    "points": 20,
+    "definition": "A landowner; also, a collector of land revenue; now, usually, akind of feudatory recognized as an actual proprietor so long as hepays to the government a certain fixed revenue. [Written alsozemindar.] [India]",
+    "scrabble_tip": "8-letter word scored for 20 pts."
+  },
+  {
+    "word": "SCRIT",
+    "points": 7,
+    "definition": "Writing; document; scroll. [Obs.] \"Of every scrit and bond.\"Chaucer.",
+    "scrabble_tip": "5-letter word scored for 7 pts."
+  },
+  {
+    "word": "SHAGREEN",
+    "points": 12,
+    "definition": "To chagrin. [Obs.]",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "DEGAGE",
+    "points": 9,
+    "definition": "Unconstrained; easy; free. Vanbrugh.",
+    "scrabble_tip": "6-letter word scored for 9 pts."
+  },
+  {
+    "word": "CHIROPODY",
+    "points": 20,
+    "definition": "The art of treating diseases of the hands and feet.",
+    "scrabble_tip": "9-letter word scored for 20 pts."
+  },
+  {
+    "word": "SAINTSHIP",
+    "points": 14,
+    "definition": "The character or qualities of a saint.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "CHARA",
+    "points": 10,
+    "definition": "A genus of flowerless plants, having articulated stems andwhorled branches. They flourish in wet places.",
+    "scrabble_tip": "5-letter word scored for 10 pts."
+  },
+  {
+    "word": "ENDOWER",
+    "points": 11,
+    "definition": "To endow. [Obs.] Waterhouse.",
+    "scrabble_tip": "7-letter word scored for 11 pts."
+  },
+  {
+    "word": "OVERHEAT",
+    "points": 14,
+    "definition": "To heat to excess; to superheat. Cowper.",
+    "scrabble_tip": "8-letter word scored for 14 pts."
+  },
+  {
+    "word": "VOMITO",
+    "points": 11,
+    "definition": "The yellow fever in its worst form, when it is usually attendedwith black vomit. See Black vomit.",
+    "scrabble_tip": "6-letter word scored for 11 pts."
+  },
+  {
+    "word": "PEGASUS",
+    "points": 10,
+    "definition": "A winged horse fabled to have sprung from the body of Medusawhen she was slain. He is noted for causing, with a blow of his hoof,Hippocrene, the inspiring fountain of the Muses, to spring from MountHelicon. On this account he is, in modern times, associated with theMuses, and with ideas of poetic inspiration.Each spurs his jaded Pegasus apace. Byron.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "IODIZER",
+    "points": 17,
+    "definition": "One who, or that which, iodizes.",
+    "scrabble_tip": "7-letter word scored for 17 pts."
+  },
+  {
+    "word": "SMITER",
+    "points": 8,
+    "definition": "One who smites.I give my back to the smiters. Isa. l. 6.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "FISTULATE",
+    "points": 12,
+    "definition": "To make hollow or become hollow like a fistula, or pipe. [Obs.]\"A fistulated ulcer.\" Fuller.",
+    "scrabble_tip": "9-letter word scored for 12 pts."
+  },
+  {
+    "word": "WOODED",
+    "points": 11,
+    "definition": "Supplied or covered with wood, or trees; as, land wooded andwatered.The brook escaped from the eye down a deep and wooded dell. Sir W.Scott.",
+    "scrabble_tip": "6-letter word scored for 11 pts."
+  },
+  {
+    "word": "PRAETEXTA",
+    "points": 18,
+    "definition": "A white robe with a purple border, worn by a Roman boy beforehe was entitled to wear the toga virilis, or until about thecompletion of his fourteenth year, and by girls until their marriage.It was also worn by magistrates and priests.",
+    "scrabble_tip": "9-letter word scored for 18 pts."
+  },
+  {
+    "word": "AFFICHE",
+    "points": 18,
+    "definition": "A written or printed notice to be posted, as on a wall; aposter; a placard.",
+    "scrabble_tip": "7-letter word scored for 18 pts."
+  },
+  {
+    "word": "OFF",
+    "points": 9,
+    "definition": "In a general sense, denoting from or away from; as:",
+    "scrabble_tip": "3-letter word scored for 9 pts."
+  },
+  {
+    "word": "OUTSOUND",
+    "points": 9,
+    "definition": "To surpass in sounding.",
+    "scrabble_tip": "8-letter word scored for 9 pts."
+  },
+  {
+    "word": "BLACKFEET",
+    "points": 20,
+    "definition": "A tribe of North American Indians formerly inhabiting thecountry from the upper Missouri River to the Saskatchewan, but nowmuch reduced in numbers.",
+    "scrabble_tip": "9-letter word scored for 20 pts."
+  },
+  {
+    "word": "TITHE",
+    "points": 8,
+    "definition": "Tenth. [Obs.]Every tithe soul, 'mongst many thousand. Shak.",
+    "scrabble_tip": "5-letter word scored for 8 pts."
+  },
+  {
+    "word": "AVOUCH",
+    "points": 14,
+    "definition": "Evidence; declaration. [Obs.]The sensible and true avouch Of mine own eyes. Shak.",
+    "scrabble_tip": "6-letter word scored for 14 pts."
+  },
+  {
+    "word": "BYNAME",
+    "points": 13,
+    "definition": "To give a nickname to. Camden.",
+    "scrabble_tip": "6-letter word scored for 13 pts."
+  },
+  {
+    "word": "PAISANO",
+    "points": 9,
+    "definition": "The chaparral cock.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "MACLUREA",
+    "points": 12,
+    "definition": "A genus of spiral gastropod shells, often of large size,characteristic of the lower Silurian rocks.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "GALLIVAT",
+    "points": 12,
+    "definition": "A small armed vessel, with sails and oars, -- used on theMalabar coast. A. Chalmers.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "OVULATE",
+    "points": 10,
+    "definition": "Containing an ovule or ovules.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "MAAD",
+    "points": 7,
+    "definition": "Made.  Chaucer.",
+    "scrabble_tip": "4-letter word scored for 7 pts."
+  },
+  {
+    "word": "ROEDEER",
+    "points": 8,
+    "definition": "The roebuck.",
+    "scrabble_tip": "7-letter word scored for 8 pts."
+  },
+  {
+    "word": "PRUSSIATE",
+    "points": 11,
+    "definition": "A salt of prussic acid; a cyanide. Red prussiate of potash. SeePotassium ferricyanide, under Ferricyanide. Yellow prussiate ofpotash. See Potassium ferrocyanide, under Ferrocyanide.",
+    "scrabble_tip": "9-letter word scored for 11 pts."
+  },
+  {
+    "word": "POSTDATE",
+    "points": 11,
+    "definition": "Made or done after the date assigned.Of these [predictions] some were postdate; cunningly made after thething came to pass. Fuller.",
+    "scrabble_tip": "8-letter word scored for 11 pts."
+  },
+  {
+    "word": "VULPICIDE",
+    "points": 17,
+    "definition": "One who kills a fox, except in hunting; also, the act of sokilling a fox. [Written also vulpecide.]",
+    "scrabble_tip": "9-letter word scored for 17 pts."
+  },
+  {
+    "word": "ASCI",
+    "points": 6,
+    "definition": "See Ascus.",
+    "scrabble_tip": "4-letter word scored for 6 pts."
+  },
+  {
+    "word": "TRANQUIL",
+    "points": 17,
+    "definition": "Quiet; calm; undisturbed; peaceful; not agitated; as, theatmosphere is tranquil; the condition of the country is tranquil.A style clear, tranquil, easy to follow. De Quincey.",
+    "scrabble_tip": "8-letter word scored for 17 pts."
+  },
+  {
+    "word": "SECULARLY",
+    "points": 14,
+    "definition": "In a secular or worldly manner.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "LONGICORN",
+    "points": 12,
+    "definition": "Long-horned; pertaining to the Longicornia.-- n.",
+    "scrabble_tip": "9-letter word scored for 12 pts."
+  },
+  {
+    "word": "CONQUEROR",
+    "points": 20,
+    "definition": "One who conquers. The Conqueror (Eng. Hist.). William theNorman (1027-1067) who invaded England, defeated Harold in the battleof Hastings, and was crowned king, in 1066.",
+    "scrabble_tip": "9-letter word scored for 20 pts."
+  },
+  {
+    "word": "INSPIRING",
+    "points": 12,
+    "definition": "Animating; cheering; moving; exhilarating; as, an inspiring orscene.",
+    "scrabble_tip": "9-letter word scored for 12 pts."
+  },
+  {
+    "word": "ENGAGEDLY",
+    "points": 15,
+    "definition": "With attachment; with interest; earnestly.",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "RIDING",
+    "points": 8,
+    "definition": "One of the three jurisdictions into which the county of York,in England, is divided; -- formerly under the government of reeve.They are called the North, the East, and the West, Riding.Blackstone.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "SHROW",
+    "points": 11,
+    "definition": "A shrew. [Obs.] Shak.",
+    "scrabble_tip": "5-letter word scored for 11 pts."
+  },
+  {
+    "word": "PONTY",
+    "points": 10,
+    "definition": "See Pontee.",
+    "scrabble_tip": "5-letter word scored for 10 pts."
+  },
+  {
+    "word": "TRACKER",
+    "points": 13,
+    "definition": "In the organ, a light strip of wood connecting (in path) a keyand a pallet, to communicate motion by pulling.",
+    "scrabble_tip": "7-letter word scored for 13 pts."
+  },
+  {
+    "word": "ALLSPICE",
+    "points": 12,
+    "definition": "The berry of the pimento (Eugenia pimenta), a tree of the WestIndies; a spice of a mildly pungent taste, and agreeably aromatic;Jamaica pepper; pimento. It has been supposed to combine the flavorof cinnamon, nutmegs, and cloves; and hence the name. The name isalso given to other aromatic shrubs; as, the Carolina allspice(Calycanthus floridus); wild allspice (Lindera benzoin), called alsospicebush, spicewood, and feverbush.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "EXILEMENT",
+    "points": 18,
+    "definition": "Banishment. [R.] Sir. H. Wotton.",
+    "scrabble_tip": "9-letter word scored for 18 pts."
+  },
+  {
+    "word": "CONIFER",
+    "points": 12,
+    "definition": "A tree or shrub bearing cones; one of the order Coniferae,which includes the pine, cypress, and (according to some) the yew.",
+    "scrabble_tip": "7-letter word scored for 12 pts."
+  },
+  {
+    "word": "FLOWK",
+    "points": 15,
+    "definition": "See 1st Fluke.",
+    "scrabble_tip": "5-letter word scored for 15 pts."
+  },
+  {
+    "word": "SURTAX",
+    "points": 13,
+    "definition": "An additional or extra tax.",
+    "scrabble_tip": "6-letter word scored for 13 pts."
+  },
+  {
+    "word": "JUGLONE",
+    "points": 15,
+    "definition": "A yellow crystalline substance resembling quinone, extractedfrom green shucks of the walnut (Juglans regia); -- called alsonucin.",
+    "scrabble_tip": "7-letter word scored for 15 pts."
+  },
+  {
+    "word": "TETRAGON",
+    "points": 9,
+    "definition": "A plane figure having four sides and angles; a quadrangle, as asquare, a rhombus, etc.",
+    "scrabble_tip": "8-letter word scored for 9 pts."
+  },
+  {
+    "word": "SOMA",
+    "points": 6,
+    "definition": "The whole axial portion of an animal, including the head, neck,trunk, and tail. B. G. Wilder.",
+    "scrabble_tip": "4-letter word scored for 6 pts."
+  },
+  {
+    "word": "EIKONOGEN",
+    "points": 14,
+    "definition": "The sodium salt of a sulphonic acid of a naphthol,C10H5(OH)(NH2)SO3Na used as a developer.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "DETORTION",
+    "points": 10,
+    "definition": "The act of detorting, or the state of being detorted; atwisting or warping.",
+    "scrabble_tip": "9-letter word scored for 10 pts."
+  },
+  {
+    "word": "LONGE",
+    "points": 6,
+    "definition": "Same as 4th Lunge.",
+    "scrabble_tip": "5-letter word scored for 6 pts."
+  },
+  {
+    "word": "RIMOUS",
+    "points": 8,
+    "definition": "Rimose.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "ASSIGNER",
+    "points": 9,
+    "definition": "One who assigns, appoints, allots, or apportions.",
+    "scrabble_tip": "8-letter word scored for 9 pts."
+  },
+  {
+    "word": "DEBIT",
+    "points": 8,
+    "definition": "A debt; an entry on the debtor (Dr.) side of an account; --mostly used adjectively; as, the debit side of an account.",
+    "scrabble_tip": "5-letter word scored for 8 pts."
+  },
+  {
+    "word": "OVERCOVER",
+    "points": 17,
+    "definition": "To cover up. Shak.",
+    "scrabble_tip": "9-letter word scored for 17 pts."
+  },
+  {
+    "word": "LEPRA",
+    "points": 7,
+    "definition": "Leprosy.",
+    "scrabble_tip": "5-letter word scored for 7 pts."
+  },
+  {
+    "word": "VAPORIZE",
+    "points": 22,
+    "definition": "To convert into vapor, as by the application of heat, whethernaturally or artificially. Vaporizing surface. (Steam Boilers) SeeEvaporating surface, under Evaporate, v. t.",
+    "scrabble_tip": "8-letter word scored for 22 pts."
+  },
+  {
+    "word": "NICKEL",
+    "points": 12,
+    "definition": "A bright silver-white metallic element. It is of the irongroup, and is hard, malleable, and ductile. It occurs combined withsulphur in millerite, with arsenic in the mineral niccolite, and witharsenic and sulphur in nickel glance. Symbol Ni. Atomic weight 58.6.",
+    "scrabble_tip": "6-letter word scored for 12 pts."
+  },
+  {
+    "word": "DESPISAL",
+    "points": 11,
+    "definition": "A despising; contempt. [R.]A despisal of religion. South.",
+    "scrabble_tip": "8-letter word scored for 11 pts."
+  },
+  {
+    "word": "OMBRE",
+    "points": 9,
+    "definition": "A large Mediterranean food fish (Umbrina cirrhosa): -- calledalso umbra, and umbrine.",
+    "scrabble_tip": "5-letter word scored for 9 pts."
+  },
+  {
+    "word": "PAUPERISM",
+    "points": 15,
+    "definition": "The state of being a pauper; the state of indigent personsrequiring support from the community. Whatly.",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "JAM",
+    "points": 12,
+    "definition": "A kind of frock for children.",
+    "scrabble_tip": "3-letter word scored for 12 pts."
+  },
+  {
+    "word": "ACHERON",
+    "points": 12,
+    "definition": "A river in the Nether World or infernal regions; also, theinfernal regions themselves. By some of the English poets it wassupposed to be a flaming lake or gulf. Shak.",
+    "scrabble_tip": "7-letter word scored for 12 pts."
+  },
+  {
+    "word": "CLASSIBLE",
+    "points": 13,
+    "definition": "Capable of being classed.",
+    "scrabble_tip": "9-letter word scored for 13 pts."
+  },
+  {
+    "word": "ANAL",
+    "points": 4,
+    "definition": "Pertaining to, or situated near, the anus; as, the anal fin orglands.",
+    "scrabble_tip": "4-letter word scored for 4 pts."
+  },
+  {
+    "word": "SUPERPOSE",
+    "points": 13,
+    "definition": "To lay (a figure) upon another in such a manner that all theparts of the one coincide with the parts of the other; as, tosuperpose one plane figure on another.",
+    "scrabble_tip": "9-letter word scored for 13 pts."
+  },
+  {
+    "word": "BRAVENESS",
+    "points": 14,
+    "definition": "The quality of state or being brave.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "GNU",
+    "points": 4,
+    "definition": "One of two species of large South African antelopes of thegenus Catoblephas, having a mane and bushy tail, and curved horns inboth sexes. [Written also gnoo.]",
+    "scrabble_tip": "3-letter word scored for 4 pts."
+  },
+  {
+    "word": "UNWARILY",
+    "points": 14,
+    "definition": "In an unwary manner.",
+    "scrabble_tip": "8-letter word scored for 14 pts."
+  },
+  {
+    "word": "VIRE",
+    "points": 7,
+    "definition": "An arrow, having a rotary motion, formerly used with thecrossbow. Cf. Vireton. Gower.",
+    "scrabble_tip": "4-letter word scored for 7 pts."
+  },
+  {
+    "word": "SHIPMATE",
+    "points": 15,
+    "definition": "One who serves on board of the same ship with another; a fellowsailor.",
+    "scrabble_tip": "8-letter word scored for 15 pts."
+  },
+  {
+    "word": "FIEND",
+    "points": 9,
+    "definition": "An implacable or malicious foe; one who is diabolically wickedor cruel; an infernal being; -- applied specifically to the devil ora demon.Into this wild abyss the wary fiend Stood on the brink of Hell andlooked a while. Milton.O woman! woman! when to ill thy mind Is bent, all hell contains nofouler fiend. Pope.",
+    "scrabble_tip": "5-letter word scored for 9 pts."
+  },
+  {
+    "word": "PERCELY",
+    "points": 14,
+    "definition": "Parsley. [Obs.] Chaucer.",
+    "scrabble_tip": "7-letter word scored for 14 pts."
+  },
+  {
+    "word": "PAPALTY",
+    "points": 14,
+    "definition": "The papacy. [Obs.] Milton.",
+    "scrabble_tip": "7-letter word scored for 14 pts."
+  },
+  {
+    "word": "ICHTHULIN",
+    "points": 17,
+    "definition": "A substance from the yolk of salmon's egg.",
+    "scrabble_tip": "9-letter word scored for 17 pts."
+  },
+  {
+    "word": "OVERLIE",
+    "points": 10,
+    "definition": "To lie over or upon; specifically, to suffocate by lying upon;as, to overlie an infant. Quain.A woman by negligence overlieth her child in her sleeping. Chaucer.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "BOATAGE",
+    "points": 10,
+    "definition": "Conveyance by boat; also, a charge for such conveyance.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "FLOORING",
+    "points": 12,
+    "definition": "A platform; the bottom of a room; a floor; pavement. See Floor,n. Addison.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "UNRUFFLE",
+    "points": 14,
+    "definition": "To cease from being ruffled or agitated. Dryden.",
+    "scrabble_tip": "8-letter word scored for 14 pts."
+  },
+  {
+    "word": "MASHLIN",
+    "points": 12,
+    "definition": "See Maslin.",
+    "scrabble_tip": "7-letter word scored for 12 pts."
+  },
+  {
+    "word": "ATLAS",
+    "points": 5,
+    "definition": "The first vertebra of the neck, articulating immediately withthe skull, thus sustaining the globe of the head, whence the name.",
+    "scrabble_tip": "5-letter word scored for 5 pts."
+  },
+  {
+    "word": "ASSENTIVE",
+    "points": 12,
+    "definition": "Giving assent; of the nature of assent; complying.-- As*sent\"ive*ness, n.",
+    "scrabble_tip": "9-letter word scored for 12 pts."
+  },
+  {
+    "word": "OPINION",
+    "points": 9,
+    "definition": "The formal decision, or expression of views, of a judge, anumpire, a counselor, or other party officially called upon toconsider and decide upon a matter or point submitted. To be ofopinion, to think; to judge.-- To hold opinion with, to agree with. [Obs.] Shak.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "BURGHER",
+    "points": 13,
+    "definition": "A member of that party, among the Scotch seceders, whichasserted the lawfulness of the burgess oath (in which burgessesprofess \"the true religion professed within the realm\"), the oppositeparty being called antiburghers.",
+    "scrabble_tip": "7-letter word scored for 13 pts."
+  },
+  {
+    "word": "LOLLOP",
+    "points": 8,
+    "definition": "To move heavily; to lounge or idle; to loll. [Law.] CharlesReade.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "OCEAN",
+    "points": 7,
+    "definition": "Of or pertaining to the main or great sea; as, the ocean waves;an ocean stream. Milton.",
+    "scrabble_tip": "5-letter word scored for 7 pts."
+  },
+  {
+    "word": "TOUPETTIT",
+    "points": 11,
+    "definition": "The crested titmouse. [Prov. Eng.]",
+    "scrabble_tip": "9-letter word scored for 11 pts."
+  },
+  {
+    "word": "WHALE",
+    "points": 11,
+    "definition": "Any aquatic mammal of the order Cetacea, especially any one ofthe large species, some of which become nearly one hundred feet long.Whales are hunted chiefly for their oil and baleen, or whalebone.",
+    "scrabble_tip": "5-letter word scored for 11 pts."
+  },
+  {
+    "word": "LEUCOMA",
+    "points": 11,
+    "definition": "A white opacity in the cornea of the eye; -- called alsoalbugo.",
+    "scrabble_tip": "7-letter word scored for 11 pts."
+  },
+  {
+    "word": "WILLINGLY",
+    "points": 16,
+    "definition": "In a willing manner; with free will; without reluctance;cheerfully. Chaucer.The condition of that people is not so much to be envied as somewould willingly represent it. Addison.",
+    "scrabble_tip": "9-letter word scored for 16 pts."
+  },
+  {
+    "word": "DECOY",
+    "points": 11,
+    "definition": "To lead into danger by artifice; to lure into a net or snare;to entrap; to insnare; to allure; to entice; as, to decoy troops intoan ambush; to decoy ducks into a net.Did to a lonely cot his steps decoy. Thomson.E'en while fashion's brightest arts decoy, The heart, distrusting,asks if this be joy. Goldsmith.",
+    "scrabble_tip": "5-letter word scored for 11 pts."
+  },
+  {
+    "word": "ROMPU",
+    "points": 9,
+    "definition": "Broken, as an ordinary; cut off, or broken at the top, as achevron, a bend, or the like.",
+    "scrabble_tip": "5-letter word scored for 9 pts."
+  },
+  {
+    "word": "DEVITRIFY",
+    "points": 19,
+    "definition": "To deprive of glasslike character; to take away vitreous lusterand transparency from.",
+    "scrabble_tip": "9-letter word scored for 19 pts."
+  },
+  {
+    "word": "LADYHOOD",
+    "points": 16,
+    "definition": "The state or quality of being a lady; the personality of alady.",
+    "scrabble_tip": "8-letter word scored for 16 pts."
+  },
+  {
+    "word": "CURIET",
+    "points": 8,
+    "definition": "A cuirass. [Obs.] Spenser.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "ANGELIC",
+    "points": 10,
+    "definition": "Of or derived from angelica; as, angelic acid; angelic ether.Angelic acid, an acid obtained from angelica and some other plants.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "UNDINE",
+    "points": 7,
+    "definition": "One of a class of fabled female water spirits who might receivea human soul by intermarrying with a mortal.",
+    "scrabble_tip": "6-letter word scored for 7 pts."
+  },
+  {
+    "word": "PASSER",
+    "points": 8,
+    "definition": "One who passes; a passenger.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "SARCLE",
+    "points": 8,
+    "definition": "To weed, or clear of weeds, with a hoe. [Obs.] Ainsworth.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "DICHROIC",
+    "points": 16,
+    "definition": "Having the property of dichroism; as, a dichroic crystal.",
+    "scrabble_tip": "8-letter word scored for 16 pts."
+  },
+  {
+    "word": "BLEA",
+    "points": 6,
+    "definition": "The part of a tree which lies immediately under the bark; thealburnum or sapwood.",
+    "scrabble_tip": "4-letter word scored for 6 pts."
+  },
+  {
+    "word": "BUCHU",
+    "points": 12,
+    "definition": "A South African shrub (Barosma) with small leaves that aredotted with oil dlands; also, the leaves themselves, which are usedin medicine for diseases of the urinary organs, etc. Several speciesfurnish the leaves.",
+    "scrabble_tip": "5-letter word scored for 12 pts."
+  },
+  {
+    "word": "CREASING",
+    "points": 11,
+    "definition": "A layer of tiles forming a corona for a wall.",
+    "scrabble_tip": "8-letter word scored for 11 pts."
+  },
+  {
+    "word": "OREODONT",
+    "points": 9,
+    "definition": "Resembling, or allied to, the genus Oreodon.",
+    "scrabble_tip": "8-letter word scored for 9 pts."
+  },
+  {
+    "word": "SWITCH",
+    "points": 14,
+    "definition": "A movable part of a rail; or of opposite rails, fortransferring cars from one track to another.",
+    "scrabble_tip": "6-letter word scored for 14 pts."
+  },
+  {
+    "word": "MENSTRUE",
+    "points": 10,
+    "definition": "The menstrual flux; menses. [Obs.]",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "FLUXILITY",
+    "points": 22,
+    "definition": "State of being fluxible.[Obs.]",
+    "scrabble_tip": "9-letter word scored for 22 pts."
+  },
+  {
+    "word": "ENASCENT",
+    "points": 10,
+    "definition": "Coming into being; nascent. [Obs.] Bp. Warburton.",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "MATAGASSE",
+    "points": 12,
+    "definition": "A shrike or butcher bird; -- called also mattages. [Prov. Eng.]",
+    "scrabble_tip": "9-letter word scored for 12 pts."
+  },
+  {
+    "word": "DESPONDER",
+    "points": 13,
+    "definition": "One who desponds.",
+    "scrabble_tip": "9-letter word scored for 13 pts."
+  },
+  {
+    "word": "POLYACID",
+    "points": 16,
+    "definition": "Capable of neutralizing, or of combining with, severalmolecules of a monobasic acid; having more than one hydrogen atomcapable of being replaced by acid radicals; -- said of certain bases;as, calcium hydrate and glycerin are polyacid bases.",
+    "scrabble_tip": "8-letter word scored for 16 pts."
+  },
+  {
+    "word": "WILDING",
+    "points": 12,
+    "definition": "A wild or uncultivated plant; especially, a wild apple tree orcrab apple; also, the fruit of such a plant. Spenser.Ten ruddy wildings in the wood I found. Dryden.The fruit of the tree . . . is small, of little juice, and badquality. I presume it to be a wilding. Landor.",
+    "scrabble_tip": "7-letter word scored for 12 pts."
+  },
+  {
+    "word": "CEASELESS",
+    "points": 11,
+    "definition": "Without pause or end; incessant.",
+    "scrabble_tip": "9-letter word scored for 11 pts."
+  },
+  {
+    "word": "POLYPIER",
+    "points": 15,
+    "definition": "A polypidom.",
+    "scrabble_tip": "8-letter word scored for 15 pts."
+  },
+  {
+    "word": "AEOLIC",
+    "points": 8,
+    "definition": "\u00c6olian, 1; as, the \u00c6olic dialect; the \u00c6olic mode.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "URANIUM",
+    "points": 9,
+    "definition": "An element of the chromium group, found in certain rareminerals, as pitchblende, uranite, etc., and reduced as a heavy,hard, nickel-white metal which is quite permanent. Its yellow oxideis used to impart to glass a delicate greenish-yellow tint which isaccompanied by a strong fluorescence, and its black oxide is used asa pigment in porcelain painting. Symbol U. Atomic weight 239.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "THINKER",
+    "points": 14,
+    "definition": "One who thinks; especially and chiefly, one who thinks in aparticular manner; as, a close thinker; a deep thinker; a coherentthinker.",
+    "scrabble_tip": "7-letter word scored for 14 pts."
+  },
+  {
+    "word": "SERMONIST",
+    "points": 11,
+    "definition": "See Sermonizer.",
+    "scrabble_tip": "9-letter word scored for 11 pts."
+  },
+  {
+    "word": "PARTITA",
+    "points": 9,
+    "definition": "A suite; a set of variations.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "MILIEU",
+    "points": 8,
+    "definition": "Environment.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "INVISIBLE",
+    "points": 14,
+    "definition": "Incapable of being seen; not perceptible by vision; notvisible.To us invisible, or dimly seen In these thy lowest works. Milton.Invisible bird (Zo\u00f6l.), a small, shy singing bird (Myadestessibilons), of St. Vincent Islands.-- Invisible green, a very dark shade of green, approaching toblack, and liable to be mistaken for it.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "COMPUTIST",
+    "points": 15,
+    "definition": "A computer.",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "IMPOOFO",
+    "points": 14,
+    "definition": "The eland. [Written also impoofoo.]",
+    "scrabble_tip": "7-letter word scored for 14 pts."
+  },
+  {
+    "word": "FARRAGO",
+    "points": 11,
+    "definition": "A mass ccomposed of various materials confusedly mixed; amedley; a mixture.A confounded farrago of doubts, fears, hopes, wishes, and all theflimsy furniture of a country miss's brain. Sheridan.",
+    "scrabble_tip": "7-letter word scored for 11 pts."
+  },
+  {
+    "word": "CLERGICAL",
+    "points": 14,
+    "definition": "Of or pertaining to the clergy; clerical; clerkily; learned.[Obs.] Milton.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "COPULA",
+    "points": 10,
+    "definition": "The word which unites the subject and predicate.",
+    "scrabble_tip": "6-letter word scored for 10 pts."
+  },
+  {
+    "word": "PROJET",
+    "points": 15,
+    "definition": "A plan proposed; a draft of a proposed measure; a project.",
+    "scrabble_tip": "6-letter word scored for 15 pts."
+  },
+  {
+    "word": "INVADER",
+    "points": 11,
+    "definition": "One who invades; an assailant; an encroacher; an intruder.",
+    "scrabble_tip": "7-letter word scored for 11 pts."
+  },
+  {
+    "word": "MISTHRIVE",
+    "points": 17,
+    "definition": "To thrive poorly; to be not thrifty or prosperous. [Obs.]",
+    "scrabble_tip": "9-letter word scored for 17 pts."
+  },
+  {
+    "word": "FROND",
+    "points": 9,
+    "definition": "The organ formed by the combination or union into one body ofstem and leaf, and often bearing the fructification; as, the frond ofa fern or of a lichen or seaweed; also, the peculiar leaf of a palmtree.",
+    "scrabble_tip": "5-letter word scored for 9 pts."
+  },
+  {
+    "word": "SUCCURSAL",
+    "points": 13,
+    "definition": "Serving to aid or help; serving as a chapel of ease; tributary.[R.]Not a city was without its cathedral, surrounded by its succursalchurches, its monasteries, and convents. Milman.",
+    "scrabble_tip": "9-letter word scored for 13 pts."
+  },
+  {
+    "word": "VAUNTMURE",
+    "points": 14,
+    "definition": "A false wall; a work raised in front of the main wall. [Writtenalso vaimure, and vamure.] Camden.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "HISSINGLY",
+    "points": 16,
+    "definition": "With a hissing sound.",
+    "scrabble_tip": "9-letter word scored for 16 pts."
+  },
+  {
+    "word": "STATIST",
+    "points": 7,
+    "definition": "Of or pertaining to statistics; as, statistical knowledge,statistical tabulation.",
+    "scrabble_tip": "7-letter word scored for 7 pts."
+  },
+  {
+    "word": "WINZE",
+    "points": 17,
+    "definition": "A small shaft sunk from one level to another, as for thepurpose of ventilation.",
+    "scrabble_tip": "5-letter word scored for 17 pts."
+  },
+  {
+    "word": "EXOTERY",
+    "points": 17,
+    "definition": "That which is obvious, public, or common.Dealing out exoteries only to the vulgar. A. Tucker.",
+    "scrabble_tip": "7-letter word scored for 17 pts."
+  },
+  {
+    "word": "GLIDER",
+    "points": 8,
+    "definition": "One who, or that which, glides.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "MORWE",
+    "points": 10,
+    "definition": "See Morrow. [Obs.] Chaucer.",
+    "scrabble_tip": "5-letter word scored for 10 pts."
+  },
+  {
+    "word": "KET",
+    "points": 7,
+    "definition": "Carrion; any filth. [Prob. Eng.] Halliwell.",
+    "scrabble_tip": "3-letter word scored for 7 pts."
+  },
+  {
+    "word": "STIBIAL",
+    "points": 9,
+    "definition": "Like, or having the qualities of, antimony; antimonial.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "FORGER",
+    "points": 10,
+    "definition": "One who forges, makes, of forms; a fabricator; a falsifier.",
+    "scrabble_tip": "6-letter word scored for 10 pts."
+  },
+  {
+    "word": "ROMANISH",
+    "points": 13,
+    "definition": "Pertaining to Romanism.",
+    "scrabble_tip": "8-letter word scored for 13 pts."
+  },
+  {
+    "word": "FUNEREAL",
+    "points": 11,
+    "definition": "Suiting a funeral; pertaining to burial; solemn. Hence: Dark;dismal; mournful. Jer. Taylor.What seem to us but sad funereal tapers May be heaven's distantlamps. Longfellow.-- Fu*ne\"re*al*ly, adv.",
+    "scrabble_tip": "8-letter word scored for 11 pts."
+  },
+  {
+    "word": "SCYTHEMAN",
+    "points": 19,
+    "definition": "One who uses a scythe; a mower. Macaulay.",
+    "scrabble_tip": "9-letter word scored for 19 pts."
+  },
+  {
+    "word": "CARACUL",
+    "points": 11,
+    "definition": "Var. of Karakul, a kind of fur.",
+    "scrabble_tip": "7-letter word scored for 11 pts."
+  },
+  {
+    "word": "SULCATION",
+    "points": 11,
+    "definition": "A channel or furrow.",
+    "scrabble_tip": "9-letter word scored for 11 pts."
+  },
+  {
+    "word": "BAWBEE",
+    "points": 13,
+    "definition": "A halfpenny. [Spelt also baubee.] [Scot. & Prov. Eng.]",
+    "scrabble_tip": "6-letter word scored for 13 pts."
+  },
+  {
+    "word": "CILLOSIS",
+    "points": 10,
+    "definition": "A spasmodic trembling of the upper eyelid.",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "HABERDINE",
+    "points": 15,
+    "definition": "A cod salted and dried. Ainsworth.",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "CIRCEAN",
+    "points": 11,
+    "definition": "Having the characteristics of Circe, daughter of Sol andPerseis, a mythological enchantress, who first charmed her victimsand then changed them to the forms of beasts; pleasing, but noxious;as, a Circean draught.",
+    "scrabble_tip": "7-letter word scored for 11 pts."
+  },
+  {
+    "word": "SCRIBER",
+    "points": 11,
+    "definition": "A sharp-pointed tool, used by joiners for drawing lines onstuff; a marking awl.",
+    "scrabble_tip": "7-letter word scored for 11 pts."
+  },
+  {
+    "word": "SPININESS",
+    "points": 11,
+    "definition": "Quality of being spiny.",
+    "scrabble_tip": "9-letter word scored for 11 pts."
+  },
+  {
+    "word": "HENRY",
+    "points": 11,
+    "definition": "The unit of electric induction; the induction in a circuit whenthe electro-motive force induced in this circuit is one volt, whilethe inducing current varies at the rate of one amp\u00e8re a second.",
+    "scrabble_tip": "5-letter word scored for 11 pts."
+  },
+  {
+    "word": "TRY",
+    "points": 6,
+    "definition": "To examine or investigate judicially; to examine by witnessesor other judicial evidence and the principles of law; as, to try acause, or a criminal.",
+    "scrabble_tip": "3-letter word scored for 6 pts."
+  },
+  {
+    "word": "MONACHAL",
+    "points": 15,
+    "definition": "Of or pertaining to monks or a monastic life; monastic.",
+    "scrabble_tip": "8-letter word scored for 15 pts."
+  },
+  {
+    "word": "DISRULILY",
+    "points": 13,
+    "definition": "In a disorderly manner. [Obs.] Rom. of R.",
+    "scrabble_tip": "9-letter word scored for 13 pts."
+  },
+  {
+    "word": "MORASS",
+    "points": 8,
+    "definition": "A tract of soft, wet ground; a marsh; a fen. Morass ore. (Min.)See Bog ore, under Bog.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "EDENTAL",
+    "points": 8,
+    "definition": "See Edentate, a.-- n. (Zo\u00f6l.)",
+    "scrabble_tip": "7-letter word scored for 8 pts."
+  },
+  {
+    "word": "EMPTYING",
+    "points": 16,
+    "definition": "The lees of beer, cider, etc.; yeast. [U.S.]",
+    "scrabble_tip": "8-letter word scored for 16 pts."
+  },
+  {
+    "word": "WAVURE",
+    "points": 12,
+    "definition": "See Waivure. [R.]",
+    "scrabble_tip": "6-letter word scored for 12 pts."
+  },
+  {
+    "word": "DROIL",
+    "points": 6,
+    "definition": "To work sluggishly or slowly; to plod. [Obs.]",
+    "scrabble_tip": "5-letter word scored for 6 pts."
+  },
+  {
+    "word": "MATH",
+    "points": 9,
+    "definition": "A mowing, or that which is gathered by mowing; -- chiefly usedin composition; as, an aftermath. [Obs.]The first mowing thereof, for the king's use, is wont to be soonerthan the common math. Bp. Hall.",
+    "scrabble_tip": "4-letter word scored for 9 pts."
+  },
+  {
+    "word": "DANDIFY",
+    "points": 15,
+    "definition": "To cause to resemble a dandy; to make dandyish.",
+    "scrabble_tip": "7-letter word scored for 15 pts."
+  },
+  {
+    "word": "GAMBA",
+    "points": 10,
+    "definition": "A viola da gamba.",
+    "scrabble_tip": "5-letter word scored for 10 pts."
+  },
+  {
+    "word": "VALIDATE",
+    "points": 12,
+    "definition": "To confirm; to render valid; to give legal force to.The chamber of deputies . . . refusing to validate at once theelection of an official candidate. London Spectator.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "BEWINTER",
+    "points": 13,
+    "definition": "To make wintry. [Obs.]",
+    "scrabble_tip": "8-letter word scored for 13 pts."
+  },
+  {
+    "word": "MYRRHINE",
+    "points": 16,
+    "definition": "Murrhine.",
+    "scrabble_tip": "8-letter word scored for 16 pts."
+  },
+  {
+    "word": "BIZARRE",
+    "points": 18,
+    "definition": "Odd in manner or appearance; fantastic; whimsical; extravagant;grotesque. C. Kingsley.",
+    "scrabble_tip": "7-letter word scored for 18 pts."
+  },
+  {
+    "word": "SELAH",
+    "points": 8,
+    "definition": "A word of doubtful meaning, occuring frequently in the Psalms;by some, supposed to signify silence or a pause in the musicalperformance of the song.Beyond the fact that Selach is a musical term, we know absolutelynothing about it. Dr. W. Smith (Bib. Dict.)",
+    "scrabble_tip": "5-letter word scored for 8 pts."
+  },
+  {
+    "word": "EFREET",
+    "points": 9,
+    "definition": "See Afrit.",
+    "scrabble_tip": "6-letter word scored for 9 pts."
+  },
+  {
+    "word": "OXANILIC",
+    "points": 17,
+    "definition": "Pertaining to, or derived from, oxalic acid and aniline; --used to designate an acid obtained in white crystalline scales byheating these substances together.",
+    "scrabble_tip": "8-letter word scored for 17 pts."
+  },
+  {
+    "word": "PAINLESS",
+    "points": 10,
+    "definition": "Free from pain; without pain.-- Pain\"less*ly, adv.-- Pain\"less*ness, n.",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "HYPOGEOUS",
+    "points": 18,
+    "definition": "Growing under ground; remaining under ground; ripening itsfruit under ground. [Written also hypog\u00e6ous.]",
+    "scrabble_tip": "9-letter word scored for 18 pts."
+  },
+  {
+    "word": "AMARACUS",
+    "points": 12,
+    "definition": "A fragrant flower. Tennyson.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "ILIAD",
+    "points": 6,
+    "definition": "A celebrated Greek epic poem, in twenty-four books, on thedestruction of Ilium, the ancient Troy. The Iliad is ascribed toHomer.",
+    "scrabble_tip": "5-letter word scored for 6 pts."
+  },
+  {
+    "word": "BULLOCK",
+    "points": 15,
+    "definition": "To bully. [Obs.]She shan't think to bullock and domineer over me. Foote.",
+    "scrabble_tip": "7-letter word scored for 15 pts."
+  },
+  {
+    "word": "HAVENAGE",
+    "points": 15,
+    "definition": "Harbor dues; port dues.",
+    "scrabble_tip": "8-letter word scored for 15 pts."
+  },
+  {
+    "word": "TOOTHY",
+    "points": 12,
+    "definition": "Toothed; with teeth. [R] Croxall.",
+    "scrabble_tip": "6-letter word scored for 12 pts."
+  },
+  {
+    "word": "ABSORBENT",
+    "points": 13,
+    "definition": "Absorbing; swallowing; absorptive. Absorbent ground (Paint.), aground prepared for a picture, chiefly with distemper, or watercolors, by which the oil is absorbed, and a brilliancy is imparted tothe colors.",
+    "scrabble_tip": "9-letter word scored for 13 pts."
+  },
+  {
+    "word": "UMBER",
+    "points": 9,
+    "definition": "A brown or reddish pigment used in both oil and water colors,obtained from certain natural clays variously colored by the oxidesof iron and manganese. It is commonly heated or burned before beingused, and is then called burnt umber; when not heated, it is calledraw umber. See Burnt umber, below.",
+    "scrabble_tip": "5-letter word scored for 9 pts."
+  },
+  {
+    "word": "RHEOSTAT",
+    "points": 11,
+    "definition": "A contrivance for adjusting or regulating the strength ofelectrical currents, operating usually by the intercalation ofresistance which can be varied at will. Wheatstone. --Rhe`o*stat\"ic,a.",
+    "scrabble_tip": "8-letter word scored for 11 pts."
+  },
+  {
+    "word": "PAXILLOSE",
+    "points": 18,
+    "definition": "Resembling a little stake.",
+    "scrabble_tip": "9-letter word scored for 18 pts."
+  },
+  {
+    "word": "BILIATION",
+    "points": 11,
+    "definition": "The production and excretion of bile.",
+    "scrabble_tip": "9-letter word scored for 11 pts."
+  },
+  {
+    "word": "ANNUAL",
+    "points": 6,
+    "definition": "A Mass for a deceased person or for some special object, saiddaily for a year or on the anniversary day.",
+    "scrabble_tip": "6-letter word scored for 6 pts."
+  },
+  {
+    "word": "STEMLET",
+    "points": 9,
+    "definition": "A small or young stem.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "EVIRATE",
+    "points": 10,
+    "definition": "To emasculate; to dispossess of manhood. [Obs.] Bp. Hall.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "FUNICLE",
+    "points": 12,
+    "definition": "The little stalk that attaches a seed to the placenta.",
+    "scrabble_tip": "7-letter word scored for 12 pts."
+  },
+  {
+    "word": "FLUGELMAN",
+    "points": 15,
+    "definition": "Same as Fugleman.",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "GAYNE",
+    "points": 9,
+    "definition": "To avail. [Obs.]",
+    "scrabble_tip": "5-letter word scored for 9 pts."
+  },
+  {
+    "word": "HEIRDOM",
+    "points": 13,
+    "definition": "The state of an heir; succession by inheritance. Burke.",
+    "scrabble_tip": "7-letter word scored for 13 pts."
+  },
+  {
+    "word": "LONGIPALP",
+    "points": 14,
+    "definition": "One of a tribe of beetles, having long maxillary palpi.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "HYOSCINE",
+    "points": 16,
+    "definition": "An alkaloid found with hyoscyamine (with which it is alsoisomeric) in henbane, and extracted as a white, amorphous, semisolidsubstance.",
+    "scrabble_tip": "8-letter word scored for 16 pts."
+  },
+  {
+    "word": "FASCIOLE",
+    "points": 13,
+    "definition": "A band of minute tubercles, bearing modified spines, on theshells of spatangoid sea urchins. See Spatangoidea.",
+    "scrabble_tip": "8-letter word scored for 13 pts."
+  },
+  {
+    "word": "FUCUSOL",
+    "points": 12,
+    "definition": "An oily liquid, resembling, and possibly identical with,furfurol, and obtained from fucus, and other seaweeds.",
+    "scrabble_tip": "7-letter word scored for 12 pts."
+  },
+  {
+    "word": "NEWNESS",
+    "points": 10,
+    "definition": "The quality or state of being new; as, the newness of a system;the newness of a scene; newness of life.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "COLLOGUE",
+    "points": 11,
+    "definition": "To talk or confer secretly and confidentially; to converse,especially with evil intentions; to plot mischief. [Archaic orColloq.]Pray go in; and, sister, salve the matter, Collogue with her again,and all shall be well. Greene.He had been colloguing with my wife. Thackeray.",
+    "scrabble_tip": "8-letter word scored for 11 pts."
+  },
+  {
+    "word": "FOOTPRINT",
+    "points": 14,
+    "definition": "The impression of the foot; a trace or footmark; as,\"Footprints of the Creator.\"",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "FUTURE",
+    "points": 9,
+    "definition": "That is to be or come hereafter; that will exist at any timeafter the present; as, the next moment is future, to the present.Future tense (Gram.), the tense or modification of a verb whichexpresses a future act or event.",
+    "scrabble_tip": "6-letter word scored for 9 pts."
+  },
+  {
+    "word": "RUTTY",
+    "points": 8,
+    "definition": "Ruttish; lustful.",
+    "scrabble_tip": "5-letter word scored for 8 pts."
+  },
+  {
+    "word": "ELUTRIATE",
+    "points": 9,
+    "definition": "To wash or strain out so as to purify; as, to elutriate theblood as it passes through the lungs; to strain off or decant, as apowder which is separated from heavier particles by being drawn offwith water; to cleanse, as by washing.",
+    "scrabble_tip": "9-letter word scored for 9 pts."
+  },
+  {
+    "word": "STERCOLIN",
+    "points": 11,
+    "definition": "Same as Serolin (b).",
+    "scrabble_tip": "9-letter word scored for 11 pts."
+  },
+  {
+    "word": "TESTIFY",
+    "points": 13,
+    "definition": "To make a solemn declaration under oath or affirmation, for thepurpose of establishing, or making proof of, some fact to a court; togive testimony in a cause depending before a tribunal.One witness shall not testify against any person to cause him to die.Num. xxxv. 30.",
+    "scrabble_tip": "7-letter word scored for 13 pts."
+  },
+  {
+    "word": "WITHERNAM",
+    "points": 17,
+    "definition": "A second or reciprocal distress of other goods in lieu of goodswhich were taken by a first distress and have been eloigned; a takingby way of reprisal; -- chiefly used in the expression capias inwithernam, which is the name of a writ used in connection with theaction of replevin (sometimes called a writ of reprisal), whichissues to a defendant in replevin when he has obtained judgment for areturn of the chattels replevied, and fails to obtain them on thewrit of return. Blackstone.",
+    "scrabble_tip": "9-letter word scored for 17 pts."
+  },
+  {
+    "word": "EAGLESS",
+    "points": 8,
+    "definition": "A female or hen eagle. [R.] Sherwood.",
+    "scrabble_tip": "7-letter word scored for 8 pts."
+  },
+  {
+    "word": "FOOTSTONE",
+    "points": 12,
+    "definition": "The stone at the foot of a grave; -- opposed to headstone.",
+    "scrabble_tip": "9-letter word scored for 12 pts."
+  },
+  {
+    "word": "ALONELY",
+    "points": 10,
+    "definition": "Only; merely; singly. [Obs.]This said spirit was not given alonely unto him, but unto all hisheirs and posterity. Latimer.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "MARGOSA",
+    "points": 10,
+    "definition": "A large tree of genus Melia (M. Azadirachta) found in India.Its bark is bitter, and used as a tonic. A valuable oil is expressedfrom its seeds, and a tenacious gum exudes from its trunk. The M.Azedarach is a much more showy tree, and is cultivated in theSouthern United States, where it is known as Pride of India, Pride ofChina, or bead tree. Various parts of the tree are consideredanthelmintic.The margosa oil . . . is a most valuable balsam for wounds, having apeculiar smell which prevents the attacks of flies. Sir S. Baker.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "NUMPS",
+    "points": 9,
+    "definition": "A dolt; a blockhead. [Obs.] Bp. Parker.",
+    "scrabble_tip": "5-letter word scored for 9 pts."
+  },
+  {
+    "word": "ERODED",
+    "points": 8,
+    "definition": "Having the edge worn away so as to be jagged or irregularlytoothed.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "CONIDIUM",
+    "points": 13,
+    "definition": "A peculiar kind of reproductive cell found in certain fungi,and often containing zo\u00f6spores.",
+    "scrabble_tip": "8-letter word scored for 13 pts."
+  },
+  {
+    "word": "BONAIR",
+    "points": 8,
+    "definition": "Gentle; courteous; complaisant; yielding. [Obs.]",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "POEMATIC",
+    "points": 14,
+    "definition": "Pertaining to a poem, or to poetry; poetical. [R.] Coleridge.",
+    "scrabble_tip": "8-letter word scored for 14 pts."
+  },
+  {
+    "word": "REDEVELOP",
+    "points": 15,
+    "definition": "To develop again; specif. (Photog.),",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "LITTORAL",
+    "points": 8,
+    "definition": "Inhabiting the seashore, esp. the zone between high-water andlow-water mark.",
+    "scrabble_tip": "8-letter word scored for 8 pts."
+  },
+  {
+    "word": "INCURRENT",
+    "points": 11,
+    "definition": "Characterized by a current which flows inward; as, theincurrent orifice of lamellibranch Mollusca.",
+    "scrabble_tip": "9-letter word scored for 11 pts."
+  },
+  {
+    "word": "LIVED",
+    "points": 9,
+    "definition": "Having life; -- used only in composition; as, long-lived;short-lived.",
+    "scrabble_tip": "5-letter word scored for 9 pts."
+  },
+  {
+    "word": "PETRARY",
+    "points": 12,
+    "definition": "An ancient war engine for hurling stones.",
+    "scrabble_tip": "7-letter word scored for 12 pts."
+  },
+  {
+    "word": "DARBY",
+    "points": 11,
+    "definition": "A plasterer's float, having two handles; -- used in smoothingceilings, etc.",
+    "scrabble_tip": "5-letter word scored for 11 pts."
+  },
+  {
+    "word": "YUNX",
+    "points": 14,
+    "definition": "A genus of birds comprising the wrynecks.",
+    "scrabble_tip": "4-letter word scored for 14 pts."
+  },
+  {
+    "word": "WHEWER",
+    "points": 15,
+    "definition": "The European widgeon. [Prov. Eng.]",
+    "scrabble_tip": "6-letter word scored for 15 pts."
+  },
+  {
+    "word": "LAPIDATE",
+    "points": 11,
+    "definition": "To stone. [Obs.]",
+    "scrabble_tip": "8-letter word scored for 11 pts."
+  },
+  {
+    "word": "UNCIATIM",
+    "points": 12,
+    "definition": "Ounce by ounce.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "DICROTISM",
+    "points": 14,
+    "definition": "A condition in which there are two beats or waves of thearterial pulse to each beat of the heart.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "PERFLATE",
+    "points": 13,
+    "definition": "To blow through. [Obs.] Harvey.",
+    "scrabble_tip": "8-letter word scored for 13 pts."
+  },
+  {
+    "word": "BENEFIT",
+    "points": 12,
+    "definition": "Natural advantaged; endowments; accomplishments. [R.] \"Thebenefits of your own country.\" Shak. Benefit of clergy. (Law) Seeunder Clergy.",
+    "scrabble_tip": "7-letter word scored for 12 pts."
+  },
+  {
+    "word": "WESTY",
+    "points": 11,
+    "definition": "Dizzy; giddy. [Prov. Eng.]",
+    "scrabble_tip": "5-letter word scored for 11 pts."
+  },
+  {
+    "word": "PINWORM",
+    "points": 14,
+    "definition": "A small nematoid worm (Oxyurus vermicularis), which isparasitic chiefly in the rectum of man. It is most common in childrenand aged persons.",
+    "scrabble_tip": "7-letter word scored for 14 pts."
+  },
+  {
+    "word": "QUARTZOID",
+    "points": 28,
+    "definition": "A form of crystal common with quartz, consisting of two six-sided pyramids, base to base.",
+    "scrabble_tip": "9-letter word scored for 28 pts."
+  },
+  {
+    "word": "ASTUN",
+    "points": 5,
+    "definition": "To stun. [Obs.] \"Breathless and astunned.\" Somerville.",
+    "scrabble_tip": "5-letter word scored for 5 pts."
+  },
+  {
+    "word": "PURIFORM",
+    "points": 15,
+    "definition": "In the form of pus.",
+    "scrabble_tip": "8-letter word scored for 15 pts."
+  },
+  {
+    "word": "CAUMA",
+    "points": 9,
+    "definition": "Great heat, as of the body in fever.",
+    "scrabble_tip": "5-letter word scored for 9 pts."
+  },
+  {
+    "word": "DHONY",
+    "points": 12,
+    "definition": "A Ceylonese boat. See Doni.",
+    "scrabble_tip": "5-letter word scored for 12 pts."
+  },
+  {
+    "word": "THYSANURA",
+    "points": 15,
+    "definition": "An order of wingless hexapod insects which have setiform caudalappendages, either bent beneath the body to form a spring, orprojecting as bristles. It comprises the Cinura, or bristletails, andthe Collembola, or springtails. Called also Thysanoura. See Lepisma,and Podura.",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "MERE",
+    "points": 6,
+    "definition": "A pool or lake. Drayton. Tennyson.",
+    "scrabble_tip": "4-letter word scored for 6 pts."
+  },
+  {
+    "word": "GRAYWACKE",
+    "points": 22,
+    "definition": "A conglomerate or grit rock, consisting of rounded pebbles sandfirmly united together.",
+    "scrabble_tip": "9-letter word scored for 22 pts."
+  },
+  {
+    "word": "HORNTAIL",
+    "points": 11,
+    "definition": "Any one of family (Urocerid\u00e6) of large hyminopterous insects,allied to the sawflies. The larv\u00e6 bore in the wood of trees. Socalled from the long, stout ovipositors of the females.",
+    "scrabble_tip": "8-letter word scored for 11 pts."
+  },
+  {
+    "word": "SPHAGNOUS",
+    "points": 15,
+    "definition": "Pertaining to moss of the genus Sphagnum, or bog moss;abounding in peat or bog moss.",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "ACCESSORY",
+    "points": 16,
+    "definition": "Accompanying as a subordinate; aiding in a secondary way;additional; connected as an incident or subordinate to a principal;contributing or contributory; said of persons and things, and, whenof persons, usually in a bad sense; as, he was accessory to the riot;accessory sounds in music.",
+    "scrabble_tip": "9-letter word scored for 16 pts."
+  },
+  {
+    "word": "SIZE",
+    "points": 13,
+    "definition": "Six.",
+    "scrabble_tip": "4-letter word scored for 13 pts."
+  },
+  {
+    "word": "PARSONED",
+    "points": 11,
+    "definition": "Furnished with a parson.",
+    "scrabble_tip": "8-letter word scored for 11 pts."
+  },
+  {
+    "word": "THURST",
+    "points": 9,
+    "definition": "The ruins of the fallen roof resulting from the removal of thepillars and stalls. Raymond.",
+    "scrabble_tip": "6-letter word scored for 9 pts."
+  },
+  {
+    "word": "BARGAINEE",
+    "points": 12,
+    "definition": "The party to a contract who receives, or agrees to receive, theproperty sold. Blackstone.",
+    "scrabble_tip": "9-letter word scored for 12 pts."
+  },
+  {
+    "word": "NOVERCAL",
+    "points": 13,
+    "definition": "Done or recurring every ninth year.",
+    "scrabble_tip": "8-letter word scored for 13 pts."
+  },
+  {
+    "word": "PRIESTING",
+    "points": 12,
+    "definition": "The office of a priest. [Obs.] Milton.",
+    "scrabble_tip": "9-letter word scored for 12 pts."
+  },
+  {
+    "word": "JARGONIC",
+    "points": 18,
+    "definition": "Of or pertaining to the mineral jargon.",
+    "scrabble_tip": "8-letter word scored for 18 pts."
+  },
+  {
+    "word": "FORESIGHT",
+    "points": 16,
+    "definition": "Any sight or reading of the leveling staff, except thebacksight; any sight or bearing taken by a compass or theodolite in aforward direction.",
+    "scrabble_tip": "9-letter word scored for 16 pts."
+  },
+  {
+    "word": "ABSTRUDE",
+    "points": 11,
+    "definition": "To thrust away. [Obs.] Johnson.",
+    "scrabble_tip": "8-letter word scored for 11 pts."
+  },
+  {
+    "word": "FOREBEAM",
+    "points": 15,
+    "definition": "The breast beam of a loom.",
+    "scrabble_tip": "8-letter word scored for 15 pts."
+  },
+  {
+    "word": "PRIVADO",
+    "points": 13,
+    "definition": "A private friend; a confidential friend; a confidant. [Obs.]Fuller.",
+    "scrabble_tip": "7-letter word scored for 13 pts."
+  },
+  {
+    "word": "SPARKLET",
+    "points": 14,
+    "definition": "A small spark. [Obs.]",
+    "scrabble_tip": "8-letter word scored for 14 pts."
+  },
+  {
+    "word": "CAMPFIGHT",
+    "points": 22,
+    "definition": "A duel; the decision of a case by a duel.",
+    "scrabble_tip": "9-letter word scored for 22 pts."
+  },
+  {
+    "word": "UNAMIABLE",
+    "points": 13,
+    "definition": "Not amiable; morose; ill-natured; repulsive.-- Un*a\"mi*a*bly, adv.",
+    "scrabble_tip": "9-letter word scored for 13 pts."
+  },
+  {
+    "word": "COCCYX",
+    "points": 22,
+    "definition": "The end of the vertebral column beyond the sacrum in man andtailless monkeys. It is composed of several vertebr\u00e6 more or lessconsolidated.",
+    "scrabble_tip": "6-letter word scored for 22 pts."
+  },
+  {
+    "word": "LIVID",
+    "points": 9,
+    "definition": "Black and blue; grayish blue; of a lead color; discolored, asflesh by contusion. Cowper.There followed no carbuncles, no purple or livid spots, the mass ofthe blood not being tainted. Bacon.",
+    "scrabble_tip": "5-letter word scored for 9 pts."
+  },
+  {
+    "word": "TROCHILIC",
+    "points": 16,
+    "definition": "OF or pertaining to rotary motion; having power to draw out orturn round. \"By art trochilic.\" Camden.",
+    "scrabble_tip": "9-letter word scored for 16 pts."
+  },
+  {
+    "word": "SHOTE",
+    "points": 8,
+    "definition": "A fish resembling the trout. [Obs. or Prov. Eng.] Garew.",
+    "scrabble_tip": "5-letter word scored for 8 pts."
+  },
+  {
+    "word": "CYPRIS",
+    "points": 13,
+    "definition": "A genus of small, bivalve, freshwater Crustacea, belonging tothe Ostracoda; also, a member of this genus.",
+    "scrabble_tip": "6-letter word scored for 13 pts."
+  },
+  {
+    "word": "PREDILECT",
+    "points": 14,
+    "definition": "To elect or choose beforehand. [R.] Walter Harte.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "BLUNGE",
+    "points": 9,
+    "definition": "To amalgamate and blend; to beat up or mix in water, as clay.",
+    "scrabble_tip": "6-letter word scored for 9 pts."
+  },
+  {
+    "word": "DUSKNESS",
+    "points": 13,
+    "definition": "Duskiness. [R.] Sir T. Elyot.",
+    "scrabble_tip": "8-letter word scored for 13 pts."
+  },
+  {
+    "word": "AYLE",
+    "points": 7,
+    "definition": "A grandfather. [Obs.] Writ of Ayle, an ancient English writwhich lay against a stranger who had dispossessed the demandant ofland of which his grandfather died seized.",
+    "scrabble_tip": "4-letter word scored for 7 pts."
+  },
+  {
+    "word": "EYEBROW",
+    "points": 15,
+    "definition": "The brow or hairy arch above the eye. Shak.",
+    "scrabble_tip": "7-letter word scored for 15 pts."
+  },
+  {
+    "word": "AVOCATION",
+    "points": 14,
+    "definition": "Pursuits; duties; affairs which occupy one's time; usualemployment; vocation.There are professions, among the men, no more favorable to thesestudies than the common avocations of women. Richardson.In a few hours, above thirty thousand men left his standard, andreturned to their ordinary avocations. Macaulay.An irregularity and instability of purpose, which makes them choosethe wandering avocations of a shepherd, rather than the more fixedpursuits of agriculture. Buckle.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "BROCHURE",
+    "points": 15,
+    "definition": "A printed and stitched book containing only a few leaves; apamphlet.",
+    "scrabble_tip": "8-letter word scored for 15 pts."
+  },
+  {
+    "word": "TRACERY",
+    "points": 12,
+    "definition": "Ornamental work with rambled lines. Especially: --(a) The decorative head of a Gothic window.",
+    "scrabble_tip": "7-letter word scored for 12 pts."
+  },
+  {
+    "word": "PORTRAIT",
+    "points": 10,
+    "definition": "To portray; to draw. [Obs.] Spenser.",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "GADDINGLY",
+    "points": 16,
+    "definition": "In a roving, idle manner.",
+    "scrabble_tip": "9-letter word scored for 16 pts."
+  },
+  {
+    "word": "SUNBURST",
+    "points": 10,
+    "definition": "A burst of sunlight.",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "ETIOLOGY",
+    "points": 12,
+    "definition": "The science of causes. Same as tiology.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "SHEAFY",
+    "points": 15,
+    "definition": "Pertaining to, or consisting of, a sheaf or sheaves; resemblinga sheaf.",
+    "scrabble_tip": "6-letter word scored for 15 pts."
+  },
+  {
+    "word": "CLUBHAUL",
+    "points": 15,
+    "definition": "To put on the other tack by dropping the lee anchor as soon asthe wind is out of the sails (which brings the vessel's head to thewind), and by cutting the cable as soon as she pays off on the othertack. Clubhauling is attempted only in an exigency.",
+    "scrabble_tip": "8-letter word scored for 15 pts."
+  },
+  {
+    "word": "FEEDER",
+    "points": 10,
+    "definition": "An auxiliary part of a machine which supplies or leads alongthe material operated upon.",
+    "scrabble_tip": "6-letter word scored for 10 pts."
+  },
+  {
+    "word": "DISTRAIT",
+    "points": 9,
+    "definition": "Absent-minded; lost in thought; abstracted.",
+    "scrabble_tip": "8-letter word scored for 9 pts."
+  },
+  {
+    "word": "COGNIZEE",
+    "points": 20,
+    "definition": "One to whom a fine of land was ackowledged. Blackstone.",
+    "scrabble_tip": "8-letter word scored for 20 pts."
+  },
+  {
+    "word": "OXFLY",
+    "points": 18,
+    "definition": "The gadfly of cattle.",
+    "scrabble_tip": "5-letter word scored for 18 pts."
+  },
+  {
+    "word": "UPSHOOT",
+    "points": 12,
+    "definition": "To shoot upward. \"Trees upshooting high.\" Spenser.",
+    "scrabble_tip": "7-letter word scored for 12 pts."
+  },
+  {
+    "word": "MUSKRAT",
+    "points": 13,
+    "definition": "A North American aquatic fur-bearing rodent (Fiber zibethicus).It resembles a rat in color and having a long scaly tail, but thetail is compressed, the bind feet are webbed, and the ears areconcealed in the fur. It has scent glands which secrete a substancehaving a strong odor of musk. Called also musquash, musk beaver, andondatra.",
+    "scrabble_tip": "7-letter word scored for 13 pts."
+  },
+  {
+    "word": "CROCKETED",
+    "points": 18,
+    "definition": "Ornamented with crockets.",
+    "scrabble_tip": "9-letter word scored for 18 pts."
+  },
+  {
+    "word": "JALAPIN",
+    "points": 16,
+    "definition": "A glucoside found in the stems of the jalap plant and scammony.It is a strong purgative.",
+    "scrabble_tip": "7-letter word scored for 16 pts."
+  },
+  {
+    "word": "CANTONAL",
+    "points": 10,
+    "definition": "Of or pertaining to a canton or cantons; of the nature of acanton.",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "THRESHER",
+    "points": 14,
+    "definition": "Same as Thrasher.",
+    "scrabble_tip": "8-letter word scored for 14 pts."
+  },
+  {
+    "word": "UNWONDER",
+    "points": 12,
+    "definition": "To divest of the quality of wonder or mystery; to interpret; toexplain. [R.] Fuller.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "WORKBENCH",
+    "points": 23,
+    "definition": "A bench on which work is performed, as in a carpenter's shop.",
+    "scrabble_tip": "9-letter word scored for 23 pts."
+  },
+  {
+    "word": "LATERAL",
+    "points": 7,
+    "definition": "Lying at, or extending toward, the side; away from the mesialplane; external; -- opposed to mesial.",
+    "scrabble_tip": "7-letter word scored for 7 pts."
+  },
+  {
+    "word": "DUBB",
+    "points": 9,
+    "definition": "The Syrian bear. See under Bear. [Written also dhubb, and dub.]",
+    "scrabble_tip": "4-letter word scored for 9 pts."
+  },
+  {
+    "word": "MONISHER",
+    "points": 13,
+    "definition": "One who monishes; an admonisher. [Archaic]",
+    "scrabble_tip": "8-letter word scored for 13 pts."
+  },
+  {
+    "word": "VENOSE",
+    "points": 9,
+    "definition": "Having numerous or conspicuous veins; veiny; as, a venosefrond.",
+    "scrabble_tip": "6-letter word scored for 9 pts."
+  },
+  {
+    "word": "SARSE",
+    "points": 5,
+    "definition": "A fine sieve; a searce. [Obs.]",
+    "scrabble_tip": "5-letter word scored for 5 pts."
+  },
+  {
+    "word": "DASH",
+    "points": 8,
+    "definition": "To rust with violence; to move impetuously; to strikeviolently; as, the waves dash upon rocks.[He] dashed through thick and thin. Dryden.On each hand the gushing waters play, And down the rough cascade alldashing fall. Thomson.",
+    "scrabble_tip": "4-letter word scored for 8 pts."
+  },
+  {
+    "word": "EXEMPLARY",
+    "points": 23,
+    "definition": "An exemplar; also, a copy of a book or writing. [Obs.] Donne.",
+    "scrabble_tip": "9-letter word scored for 23 pts."
+  },
+  {
+    "word": "BEARING",
+    "points": 10,
+    "definition": "Any single emblem or charge in an escutcheon or coat of arms --commonly in the pl.A carriage covered with armorial bearings. Thackeray.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "MYOLOGY",
+    "points": 16,
+    "definition": "That part of anatomy which treats of muscles.",
+    "scrabble_tip": "7-letter word scored for 16 pts."
+  },
+  {
+    "word": "CRAKE",
+    "points": 11,
+    "definition": "A boast. See Crack, n. [Obs.] Spenser.",
+    "scrabble_tip": "5-letter word scored for 11 pts."
+  },
+  {
+    "word": "IRISED",
+    "points": 7,
+    "definition": "Having colors like those of the rainbow; iridescent. Holmes.",
+    "scrabble_tip": "6-letter word scored for 7 pts."
+  },
+  {
+    "word": "RUTATE",
+    "points": 6,
+    "definition": "A salt of rutic acid.",
+    "scrabble_tip": "6-letter word scored for 6 pts."
+  },
+  {
+    "word": "SIPE",
+    "points": 6,
+    "definition": "See Seep. [Scot. & U.S.]",
+    "scrabble_tip": "4-letter word scored for 6 pts."
+  },
+  {
+    "word": "NONSEXUAL",
+    "points": 16,
+    "definition": "Having no distinction of sex; sexless; neuter.",
+    "scrabble_tip": "9-letter word scored for 16 pts."
+  },
+  {
+    "word": "MASTICH",
+    "points": 14,
+    "definition": "See Mastic.",
+    "scrabble_tip": "7-letter word scored for 14 pts."
+  },
+  {
+    "word": "OMELET",
+    "points": 8,
+    "definition": "Eggs beaten up with a little flour, etc., and cooked in afrying pan; as, a plain omelet.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "GRIEGO",
+    "points": 8,
+    "definition": "See Greggoe.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "BAAING",
+    "points": 9,
+    "definition": "The bleating of a sheep. Marryat.",
+    "scrabble_tip": "6-letter word scored for 9 pts."
+  },
+  {
+    "word": "REPEATING",
+    "points": 12,
+    "definition": "Doing the same thing over again; accomplishing a given resultmany times in succession; as, a repeating firearm; a repeating watch.Repeating circle. See the Note under Circle, n., 3.-- Repeating decimal (Arith.), a circulating decimal. See underDecimal.-- Repeating firearm, a firearm that may be discharged many times inquick succession; especially: (a) A form of firearm so constructedthat by the action of the mechanism the charges are successivelyintroduced from a chamber containing them into the breech of thebarrel, and fired. (b) A form in which the charges are held in, anddischarged from, a revolving chamber at the breech of the barrel. SeeRevolver, and Magazine gun, under Magazine.-- Repeating instruments (Astron. & Surv.), instruments forobserving angles, as a circle, theodolite, etc., so constructed thatthe angle may be measured several times in succession, and different,but successive and contiguous, portions of the graduated limb, beforereading off the aggregate result, which aggregate, divided by thenumber of measurements, gives the angle, freed in a measure fromerrors of eccentricity and graduation.-- Repeating watch. See Repeater (a)",
+    "scrabble_tip": "9-letter word scored for 12 pts."
+  },
+  {
+    "word": "LACTATION",
+    "points": 11,
+    "definition": "A giving suck; the secretion and yielding of milk by themammary gland.",
+    "scrabble_tip": "9-letter word scored for 11 pts."
+  },
+  {
+    "word": "ELEVE",
+    "points": 8,
+    "definition": "A pupil; a student.",
+    "scrabble_tip": "5-letter word scored for 8 pts."
+  },
+  {
+    "word": "DEAS",
+    "points": 5,
+    "definition": "See Dais. [Scot.]",
+    "scrabble_tip": "4-letter word scored for 5 pts."
+  },
+  {
+    "word": "BEEVE",
+    "points": 10,
+    "definition": "A beef; a beef creature.They would knock down the first beeve they met with. W. Irving.",
+    "scrabble_tip": "5-letter word scored for 10 pts."
+  },
+  {
+    "word": "ZYGANTRUM",
+    "points": 24,
+    "definition": "See under Zygosphene.",
+    "scrabble_tip": "9-letter word scored for 24 pts."
+  },
+  {
+    "word": "NAPU",
+    "points": 6,
+    "definition": "A very small chevrotain (Tragulus Javanicus), native of Java.It is about the size of a hare, and is noted for its agility inleaping. Called also Java musk deer, pygmy musk deer, and deerlet.",
+    "scrabble_tip": "4-letter word scored for 6 pts."
+  },
+  {
+    "word": "RESINOID",
+    "points": 9,
+    "definition": "Somewhat like resin.",
+    "scrabble_tip": "8-letter word scored for 9 pts."
+  },
+  {
+    "word": "SMOULDER",
+    "points": 11,
+    "definition": "See Smolder.",
+    "scrabble_tip": "8-letter word scored for 11 pts."
+  },
+  {
+    "word": "LOBSTER",
+    "points": 9,
+    "definition": "Any large macrurous crustacean used as food, esp. those of thegenus Homarus; as the American lobster (H. Americanus), and theEuropean lobster (H. vulgaris). The Norwegian lobster (NephropsNorvegicus) is similar in form. All these have a pair of largeunequal claws. The spiny lobsters of more southern waters, belongingto Palinurus, Panulirus, and allied genera, have no large claws. Thefresh-water crayfishes are sometimes called lobsters. Lobstercaterpillar (Zo\u00f6l.), the caterpillar of a European bombycid moth(Stauropus fagi); -- so called from its form. Lobster louse (Zo\u00f6l.),a copepod crustacean (Nicotho\u00eb astaci) parasitic on the gills of theEuropean lobster.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "OXHEAL",
+    "points": 16,
+    "definition": "Same as Bear's-foot.",
+    "scrabble_tip": "6-letter word scored for 16 pts."
+  },
+  {
+    "word": "TARGE",
+    "points": 6,
+    "definition": "A shield or target. [Obs. or Poetic] \"A buckler on a targe.\"Chaucer.",
+    "scrabble_tip": "5-letter word scored for 6 pts."
+  },
+  {
+    "word": "ENNEAD",
+    "points": 7,
+    "definition": "The number nine or a group of nine. The Enneads, the titlegiven to the works of the philosopher Plotinus, published by hispupil Porphyry; -- so called because each of the six books into whichit is divided contains nine chapters.",
+    "scrabble_tip": "6-letter word scored for 7 pts."
+  },
+  {
+    "word": "ZINK",
+    "points": 17,
+    "definition": "See Zinc. [Obs.]",
+    "scrabble_tip": "4-letter word scored for 17 pts."
+  },
+  {
+    "word": "RIFLEBIRD",
+    "points": 15,
+    "definition": "Any one of several species of beautiful birds of Australia andNew Guinea, of the genera Ptiloris and Craspidophora, allied to theparadise birds.",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "STOCKDOVE",
+    "points": 19,
+    "definition": "A common European wild pigeon (Columba \u00e6nas), so called becauseat one time believed to be the stock of the domestic pigeon, or,according to some, from its breeding in the stocks, or trunks, oftrees.",
+    "scrabble_tip": "9-letter word scored for 19 pts."
+  },
+  {
+    "word": "COLON",
+    "points": 7,
+    "definition": "That part of the large intestines which extends from the c\u00e6cumto the rectum.",
+    "scrabble_tip": "5-letter word scored for 7 pts."
+  },
+  {
+    "word": "PERMEABLE",
+    "points": 15,
+    "definition": "Capable of being permeated, or passed through; yieldingpassage; passable; penetrable; -- used especially of substances whichallow the passage of fluids; as, wood is permeable to oil; glass ispermeable to light. I. Taylor.",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "NETSUKE",
+    "points": 11,
+    "definition": "In Japanese costume and decorative art, a small object carvedin wood, ivory, bone, or horn, or wrought in metal, and pierced withholes for cords by which it is connected, for convenience, with theinro, the smoking pouch (tabako-ire), and similar objects carried inthe girdle. It is now much used on purses sold in Europe and America.",
+    "scrabble_tip": "7-letter word scored for 11 pts."
+  },
+  {
+    "word": "TUSKER",
+    "points": 10,
+    "definition": "An elephant having large tusks.",
+    "scrabble_tip": "6-letter word scored for 10 pts."
+  },
+  {
+    "word": "WOOLSACK",
+    "points": 17,
+    "definition": "A sack or bag of wool; specifically, the seat of the lordchancellor of England in the House of Lords, being a large, squaresack of wool resembling a divan in form.",
+    "scrabble_tip": "8-letter word scored for 17 pts."
+  },
+  {
+    "word": "FORFEIT",
+    "points": 13,
+    "definition": "Lost or alienated for an offense or crime; liable to penalseizure.Thy wealth being forfeit to the state. Shak.To tread the forfeit paradise. Emerson.",
+    "scrabble_tip": "7-letter word scored for 13 pts."
+  },
+  {
+    "word": "HORSENAIL",
+    "points": 12,
+    "definition": "A thin, pointed nail, with a heavy flaring head, for securing ahorsehoe to the hoof; a horsehoe nail.",
+    "scrabble_tip": "9-letter word scored for 12 pts."
+  },
+  {
+    "word": "KAT",
+    "points": 7,
+    "definition": "An Arabian shrub Catha edulis) the leaves of which are used astea by the Arabs.",
+    "scrabble_tip": "3-letter word scored for 7 pts."
+  },
+  {
+    "word": "ANTHRENUS",
+    "points": 12,
+    "definition": "A genus of small beetles, several of which, in the larvalstate, are very destructive to woolen goods, fur, etc. The common\"museum pest\" is A. varius; the carpet beetle is A. scrophulari\u00e6. Thelarv\u00e6 are commonly confounded with moths.",
+    "scrabble_tip": "9-letter word scored for 12 pts."
+  },
+  {
+    "word": "HOGH",
+    "points": 11,
+    "definition": "A hill; a cliff. [Obs.] Spenser.",
+    "scrabble_tip": "4-letter word scored for 11 pts."
+  },
+  {
+    "word": "DODO",
+    "points": 6,
+    "definition": "A large, extinct bird (Didus ineptus), formerly inhabiting theIsland of Mauritius. It had short, half-fledged wings, like those ofthe ostrich, and a short neck and legs; -- called also dronte. It wasrelated to the pigeons.",
+    "scrabble_tip": "4-letter word scored for 6 pts."
+  },
+  {
+    "word": "MUTATION",
+    "points": 10,
+    "definition": "Change; alteration, either in form or qualities.The vicissitude or mutations in the superior globe are no fit matterfor this present argument. Bacon.",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "MYSTERIZE",
+    "points": 23,
+    "definition": "To make mysterious; to make a mystery of.",
+    "scrabble_tip": "9-letter word scored for 23 pts."
+  },
+  {
+    "word": "SPINNY",
+    "points": 11,
+    "definition": "A small thicket or grove with undergrowth; a clump of trees.[Written also spinney, and spinny.]The downs rise steep, crowned with black fir spinnies. C. Kingsley.",
+    "scrabble_tip": "6-letter word scored for 11 pts."
+  },
+  {
+    "word": "PUCEL",
+    "points": 9,
+    "definition": "See Pucelle. [Obs.]",
+    "scrabble_tip": "5-letter word scored for 9 pts."
+  },
+  {
+    "word": "OVERWEAK",
+    "points": 18,
+    "definition": "Too weak; too feeble.",
+    "scrabble_tip": "8-letter word scored for 18 pts."
+  },
+  {
+    "word": "NATURISM",
+    "points": 10,
+    "definition": "The belief or doctrine that attributes everything to nature asa sanative agent.",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "SUBSTANCE",
+    "points": 13,
+    "definition": "Same as Hypostasis, 2.",
+    "scrabble_tip": "9-letter word scored for 13 pts."
+  },
+  {
+    "word": "BULLIST",
+    "points": 9,
+    "definition": "A writer or drawer up of papal bulls. [R.] Harmar.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "CULLER",
+    "points": 8,
+    "definition": "One who piks or chooses; esp., an inspector who select waressuitable for market.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "IMMIX",
+    "points": 16,
+    "definition": "To mix; to mingle. [R.]Amongst her tears immixing prayers meek. Spenser.",
+    "scrabble_tip": "5-letter word scored for 16 pts."
+  },
+  {
+    "word": "WESTERING",
+    "points": 13,
+    "definition": "Passing to the west.Toward heaven's descent had sloped his westering wheel. Milton.",
+    "scrabble_tip": "9-letter word scored for 13 pts."
+  },
+  {
+    "word": "BLACK",
+    "points": 13,
+    "definition": "Sullenly; threateningly; maliciously; so as to produceblackness.",
+    "scrabble_tip": "5-letter word scored for 13 pts."
+  },
+  {
+    "word": "ACTINIC",
+    "points": 11,
+    "definition": "Of or pertaining to actinism; as, actinic rays.",
+    "scrabble_tip": "7-letter word scored for 11 pts."
+  },
+  {
+    "word": "RATE",
+    "points": 4,
+    "definition": "To chide with vehemence; to scold; to censure violently.Spencer.Go, rate thy minions, proud, insulting boy! Shak.Conscience is a check to beginners in sin, reclaiming them from it,and rating them for it. Barrow.",
+    "scrabble_tip": "4-letter word scored for 4 pts."
+  },
+  {
+    "word": "PYROGEN",
+    "points": 13,
+    "definition": "A poison separable from decomposed meat infusions, and supposedto be formed from albuminous matter through the agency of bacteria.",
+    "scrabble_tip": "7-letter word scored for 13 pts."
+  },
+  {
+    "word": "CARMELITE",
+    "points": 13,
+    "definition": "A friar of a mendicant order (the Order of Our Lady of MountCarmel) established on Mount Carmel, in Syria, in the twelfthcentury; a White Friar.",
+    "scrabble_tip": "9-letter word scored for 13 pts."
+  },
+  {
+    "word": "QUASIMODO",
+    "points": 21,
+    "definition": "The first Sunday after Easter; Low Sunday.",
+    "scrabble_tip": "9-letter word scored for 21 pts."
+  },
+  {
+    "word": "PHANE",
+    "points": 10,
+    "definition": "See Fane. [Obs.] Joye.",
+    "scrabble_tip": "5-letter word scored for 10 pts."
+  },
+  {
+    "word": "REBUTTAL",
+    "points": 10,
+    "definition": "The giving of evidence on the part of a plaintiff to destroythe effect of evidence introduced by the defendant in the same suit.",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "PARAIL",
+    "points": 8,
+    "definition": "See Apparel. [Obs.] \"In the parail of a pilgrim.\" PiersPlowman.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "TRIMURTI",
+    "points": 10,
+    "definition": "The triad, or trinity, of Hindoo gods, consisting of Brahma,the Creator, Vishnu, the Preserver, and Siva, the Destroyer. [Spelledalso Trimurtti.]",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "SPOILFUL",
+    "points": 13,
+    "definition": "Wasteful; rapacious. [Poetic]",
+    "scrabble_tip": "8-letter word scored for 13 pts."
+  },
+  {
+    "word": "PELLITORY",
+    "points": 14,
+    "definition": "The common name of the several species of the genus Parietaria,low, harmless weeds of the Nettle family; -- also called wallpellitory, and lichwort.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "BUTTON",
+    "points": 8,
+    "definition": "To be fastened by a button or buttons; as, the coat will notbutton.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "BROWLESS",
+    "points": 13,
+    "definition": "Without shame. L. Addison.",
+    "scrabble_tip": "8-letter word scored for 13 pts."
+  },
+  {
+    "word": "INSEAM",
+    "points": 8,
+    "definition": "To impress or mark with a seam or cicatrix. Pope.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "SEXTOLET",
+    "points": 15,
+    "definition": "A double triplet; a group of six equal notes played in the timeof four.",
+    "scrabble_tip": "8-letter word scored for 15 pts."
+  },
+  {
+    "word": "QUAESTOR",
+    "points": 17,
+    "definition": "Same as Questor.",
+    "scrabble_tip": "8-letter word scored for 17 pts."
+  },
+  {
+    "word": "TUET",
+    "points": 4,
+    "definition": "The lapwing. [Prov. Eng.]",
+    "scrabble_tip": "4-letter word scored for 4 pts."
+  },
+  {
+    "word": "CRUMB",
+    "points": 11,
+    "definition": "To break into crumbs or small pieces with the fingers; as, tocrumb bread. [Written also crum.]",
+    "scrabble_tip": "5-letter word scored for 11 pts."
+  },
+  {
+    "word": "QUADRIC",
+    "points": 19,
+    "definition": "Of or pertaining to the second degree.",
+    "scrabble_tip": "7-letter word scored for 19 pts."
+  },
+  {
+    "word": "STIPEND",
+    "points": 10,
+    "definition": "Settled pay or compensation for services, whether paid daily,monthly, or annually.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "STEINGALE",
+    "points": 10,
+    "definition": "The stannel. [Prov. Eng.]",
+    "scrabble_tip": "9-letter word scored for 10 pts."
+  },
+  {
+    "word": "HAVEN",
+    "points": 11,
+    "definition": "To shelter, as in a haven. Keats.",
+    "scrabble_tip": "5-letter word scored for 11 pts."
+  },
+  {
+    "word": "SUPREME",
+    "points": 11,
+    "definition": "Situated at the highest part or point. The Supreme, theAlmighty; God.",
+    "scrabble_tip": "7-letter word scored for 11 pts."
+  },
+  {
+    "word": "ZOETROPE",
+    "points": 19,
+    "definition": "An optical toy, in which figures made to revolve on the insideof a cylinder, and viewed through slits in its circumference, appearlike a single figure passing through a series of natural motions asif animated or mechanically moved.",
+    "scrabble_tip": "8-letter word scored for 19 pts."
+  },
+  {
+    "word": "PALEMPORE",
+    "points": 15,
+    "definition": "A superior kind of dimity made in India, -- used for bedcoverings. [Written also palampore, palampoor, etc.] De Colange.",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "IRONIST",
+    "points": 7,
+    "definition": "One who uses irony.",
+    "scrabble_tip": "7-letter word scored for 7 pts."
+  },
+  {
+    "word": "PSALMIST",
+    "points": 12,
+    "definition": "A clerk, precentor, singer, or leader of music, in the church.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "ANOLIS",
+    "points": 6,
+    "definition": "A genus of lizards which belong to the family Iguanid\u00e6. Theytake the place in the New World of the chameleons in the Old, and inAmerica are often called chameleons.",
+    "scrabble_tip": "6-letter word scored for 6 pts."
+  },
+  {
+    "word": "BERIME",
+    "points": 10,
+    "definition": "To berhyme.",
+    "scrabble_tip": "6-letter word scored for 10 pts."
+  },
+  {
+    "word": "ANTRUM",
+    "points": 8,
+    "definition": "A cavern or cavity, esp. an anatomical cavity or sinus. Huxley.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "SECONDER",
+    "points": 11,
+    "definition": "One who seconds or supports what another attempts, affirms,moves, or proposes; as, the seconder of an enterprise or of a motion.",
+    "scrabble_tip": "8-letter word scored for 11 pts."
+  },
+  {
+    "word": "CHARY",
+    "points": 13,
+    "definition": "Careful; wary; cautious; not rash, reckless, or spendthrift;saving; frugal.His rising reputation made him more chary of his fame. Jeffrey.",
+    "scrabble_tip": "5-letter word scored for 13 pts."
+  },
+  {
+    "word": "ECTOMERE",
+    "points": 12,
+    "definition": "The more transparent cells, which finally become external, inmany segmenting ova, as those of mammals.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "SQUEAL",
+    "points": 15,
+    "definition": "A shrill, somewhat prolonged cry.",
+    "scrabble_tip": "6-letter word scored for 15 pts."
+  },
+  {
+    "word": "DOVE",
+    "points": 8,
+    "definition": "A pigeon of the genus Columba and various related genera. Thespecies are numerous.",
+    "scrabble_tip": "4-letter word scored for 8 pts."
+  },
+  {
+    "word": "ACROBATIC",
+    "points": 15,
+    "definition": "Pertaining to an acrobat.-- Ac`ro*bat\"ic*al*ly, adv.",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "NUCLEUS",
+    "points": 9,
+    "definition": "The body or the head of a comet.",
+    "scrabble_tip": "7-letter word scored for 9 pts."
+  },
+  {
+    "word": "TERGITE",
+    "points": 8,
+    "definition": "The dorsal portion of an arthromere or somite of an articulateanimal. See Illust. under Coleoptera.",
+    "scrabble_tip": "7-letter word scored for 8 pts."
+  },
+  {
+    "word": "SIZZLE",
+    "points": 24,
+    "definition": "To make a hissing sound; to fry, or to dry and shrivel up, witha hissing sound. [Prov. Eng. & Colloq. U. S.] Forby.",
+    "scrabble_tip": "6-letter word scored for 24 pts."
+  },
+  {
+    "word": "ACRITE",
+    "points": 8,
+    "definition": "Acritan. Owen.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "GUNPOWDER",
+    "points": 16,
+    "definition": "A black, granular, explosive substance, consisting of anintimate mechanical mixture of niter, charcoal, and sulphur. It isused in gunnery and blasting.",
+    "scrabble_tip": "9-letter word scored for 16 pts."
+  },
+  {
+    "word": "ELEMIN",
+    "points": 8,
+    "definition": "A transparent, colorless oil obtained from elemi resin bydistillation with water; also, a crystallizable extract from theresin.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "ORGEIS",
+    "points": 7,
+    "definition": "See Organling.",
+    "scrabble_tip": "6-letter word scored for 7 pts."
+  },
+  {
+    "word": "ELOPEMENT",
+    "points": 13,
+    "definition": "The act of eloping; secret departure; -- said of a woman and aman, one or both, who run away from their homes for marriage or forcohabitation.",
+    "scrabble_tip": "9-letter word scored for 13 pts."
+  },
+  {
+    "word": "OYLET",
+    "points": 8,
+    "definition": "Same as Oillet.",
+    "scrabble_tip": "5-letter word scored for 8 pts."
+  },
+  {
+    "word": "REMISSIVE",
+    "points": 14,
+    "definition": "Remitting; forgiving; abating. Bp. Hacket.",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "STOPPER",
+    "points": 11,
+    "definition": "A short piece of rope having a knot at one or both ends, with alanyard under the knot, -- used to secure something. Totten.",
+    "scrabble_tip": "7-letter word scored for 11 pts."
+  },
+  {
+    "word": "EQUINE",
+    "points": 15,
+    "definition": "Of, pertaining to, or resembling, a horse.The shoulders, body, things, and mane are equine; the head completelybovine. Sir J. Barrow.",
+    "scrabble_tip": "6-letter word scored for 15 pts."
+  },
+  {
+    "word": "COUPON",
+    "points": 10,
+    "definition": "A certificate of interest due, printed at the bottom oftransferable bonds (state, railroad, etc.), given for a term ofyears, designed to be cut off and presented for payment when theinterest is due; an interest warrant.",
+    "scrabble_tip": "6-letter word scored for 10 pts."
+  },
+  {
+    "word": "DIKE",
+    "points": 9,
+    "definition": "A wall-like mass of mineral matter, usually an intrusion ofigneous rocks, filling up rents or fissures in the original strata.",
+    "scrabble_tip": "4-letter word scored for 9 pts."
+  },
+  {
+    "word": "SCARECROW",
+    "points": 16,
+    "definition": "The black tern. [Prov. Eng.]",
+    "scrabble_tip": "9-letter word scored for 16 pts."
+  },
+  {
+    "word": "CORREI",
+    "points": 8,
+    "definition": "A hollow in the side of a hill, where game usually lies. \"Fleetfoot on the correi.\" Sir W. Scott.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "INGULF",
+    "points": 10,
+    "definition": "To swallow up or overwhelm in, or as in, a gulf; to cast into agulf. See Engulf.A river large . . . Passed underneath ingulfed. Milton.",
+    "scrabble_tip": "6-letter word scored for 10 pts."
+  },
+  {
+    "word": "BALANCE",
+    "points": 11,
+    "definition": "A balance wheel, as of a watch, or clock. See Balance wheel (inthe Vocabulary).",
+    "scrabble_tip": "7-letter word scored for 11 pts."
+  },
+  {
+    "word": "BALLOONED",
+    "points": 12,
+    "definition": "Swelled out like a balloon.",
+    "scrabble_tip": "9-letter word scored for 12 pts."
+  },
+  {
+    "word": "DULEDGE",
+    "points": 10,
+    "definition": "One of the dowels joining the ends of the fellies which formthe circle of the wheel of a gun carriage. Wilhelm.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "SAINTLY",
+    "points": 10,
+    "definition": "Like a saint; becoming a holy person.So dear to Heaven is saintly chastity. Milton.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "DEMOLISH",
+    "points": 14,
+    "definition": "To throw or pull down; to raze; to destroy the fabric of; topull to pieces; to ruin; as, to demolish an edifice, or a wall.I expected the fabric of my book would long since have beendemolished, and laid even with the ground. Tillotson.",
+    "scrabble_tip": "8-letter word scored for 14 pts."
+  },
+  {
+    "word": "LITURGIST",
+    "points": 10,
+    "definition": "One who favors or adheres strictly to a liturgy. Milton.",
+    "scrabble_tip": "9-letter word scored for 10 pts."
+  },
+  {
+    "word": "EMOVE",
+    "points": 10,
+    "definition": "To move. [Obs.] Thomson.",
+    "scrabble_tip": "5-letter word scored for 10 pts."
+  },
+  {
+    "word": "NORIE",
+    "points": 5,
+    "definition": "The cormorant. [Prov. Eng.]",
+    "scrabble_tip": "5-letter word scored for 5 pts."
+  },
+  {
+    "word": "INGREAT",
+    "points": 8,
+    "definition": "To make great; to enlarge; to magnify. [Obs.] Fotherby.",
+    "scrabble_tip": "7-letter word scored for 8 pts."
+  },
+  {
+    "word": "LIGHTNING",
+    "points": 14,
+    "definition": "Lightening. [R.]",
+    "scrabble_tip": "9-letter word scored for 14 pts."
+  },
+  {
+    "word": "SUBTEND",
+    "points": 10,
+    "definition": "To extend under, or be opposed to; as, the line of a trianglewhich subtends the right angle; the chord subtends an arc.",
+    "scrabble_tip": "7-letter word scored for 10 pts."
+  },
+  {
+    "word": "DOWNWEIGH",
+    "points": 20,
+    "definition": "To weigh or press down.A different sin downweighs them to the bottom. Longfellow.",
+    "scrabble_tip": "9-letter word scored for 20 pts."
+  },
+  {
+    "word": "GLUMP",
+    "points": 10,
+    "definition": "To manifest sullenness; to sulk. [Colloq.]",
+    "scrabble_tip": "5-letter word scored for 10 pts."
+  },
+  {
+    "word": "AMENABLE",
+    "points": 12,
+    "definition": "Easy to be led; governable, as a woman by her husband. [Obs.]Jacob.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "INHUMANLY",
+    "points": 17,
+    "definition": "In an inhuman manner; cruelly; barbarously.",
+    "scrabble_tip": "9-letter word scored for 17 pts."
+  },
+  {
+    "word": "PEDERASTY",
+    "points": 15,
+    "definition": "The crime against nature; sodomy.",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "TITANITIC",
+    "points": 11,
+    "definition": "Pertaining to, or containing, titanium; as, a titaniticmineral.",
+    "scrabble_tip": "9-letter word scored for 11 pts."
+  },
+  {
+    "word": "OUTLIER",
+    "points": 7,
+    "definition": "A part of a rock or stratum lying without, or beyond, the mainbody, from which it has been separated by denudation.",
+    "scrabble_tip": "7-letter word scored for 7 pts."
+  },
+  {
+    "word": "ZAPHARA",
+    "points": 21,
+    "definition": "Zaffer.",
+    "scrabble_tip": "7-letter word scored for 21 pts."
+  },
+  {
+    "word": "MISFAITH",
+    "points": 16,
+    "definition": "Want of faith; distrust. \"[Anger] born of your misfaith.\"Tennyson.",
+    "scrabble_tip": "8-letter word scored for 16 pts."
+  },
+  {
+    "word": "VITELLARY",
+    "points": 15,
+    "definition": "Vitelline.",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "BLOODBIRD",
+    "points": 15,
+    "definition": "An Australian honeysucker (Myzomela sanguineolata); -- socalled from the bright red color of the male bird.",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "PIED",
+    "points": 7,
+    "definition": "imp. & p. p. of Pi, or Pie, v.",
+    "scrabble_tip": "4-letter word scored for 7 pts."
+  },
+  {
+    "word": "TEMPLATE",
+    "points": 12,
+    "definition": "Same as Templet.",
+    "scrabble_tip": "8-letter word scored for 12 pts."
+  },
+  {
+    "word": "WHEREOUT",
+    "points": 14,
+    "definition": "Out of which. [R.]The cleft whereout the lightning breaketh. Holland.",
+    "scrabble_tip": "8-letter word scored for 14 pts."
+  },
+  {
+    "word": "KILLER",
+    "points": 10,
+    "definition": "A voracious, toothed whale of the genus Orca, of which severalspecies are known.",
+    "scrabble_tip": "6-letter word scored for 10 pts."
+  },
+  {
+    "word": "GONOPHORE",
+    "points": 15,
+    "definition": "A sexual zooid produced as a medusoid bud upon a hydroid,sometimes becoming a free hydromedusa, sometimes remaining attached.See Hydroidea, and Illusts. of Athecata, Campanularian, and Gonosome.",
+    "scrabble_tip": "9-letter word scored for 15 pts."
+  },
+  {
+    "word": "FATALISM",
+    "points": 13,
+    "definition": "The doctrine that all things are subject to fate, or that theytake place by inevitable necessity.",
+    "scrabble_tip": "8-letter word scored for 13 pts."
+  },
+  {
+    "word": "NORMAL",
+    "points": 8,
+    "definition": "According to a square or rule; perpendicular; forming a rightangle. Specifically: Of or pertaining to a normal.",
+    "scrabble_tip": "6-letter word scored for 8 pts."
+  },
+  {
+    "word": "OPINATOR",
+    "points": 10,
+    "definition": "One fond of his own opinious; one who holds an opinion. [Obs.]Glanvill.",
+    "scrabble_tip": "8-letter word scored for 10 pts."
+  },
+  {
+    "word": "GAMIC",
+    "points": 10,
+    "definition": "Pertaining to, or resulting from, sexual connection; formed bythe union of the male and female elements.",
+    "scrabble_tip": "5-letter word scored for 10 pts."
+  },
+  {
+    "word": "JOLLINESS",
+    "points": 16,
+    "definition": "Jollity; noisy mirth. Chaucer.",
+    "scrabble_tip": "9-letter word scored for 16 pts."
+  },
+  {
+    "word": "FEN",
+    "points": 6,
+    "definition": "Low land overflowed, or covered wholly or partially with water,but producing sedge, coarse grasses, or other aquatic plants; boggyland; moor; marsh.'Mid reedy fens wide spread. Wordsworth.",
+    "scrabble_tip": "3-letter word scored for 6 pts."
   }
 ]
